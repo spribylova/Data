@@ -1,0 +1,32 @@
+IN,Bank Name,Web,1 Font,2 Font,Homepage Colors,Founded,Street,City,Post,Country,Continent,Industry
+1,UBS,www.ubs.com,Sans serif,Frutiger,red white black,1862,"Bahnhofstrasse 45, Basel, 8001, Switzerland",Basel,8001,Switzerland,Europe,Bank
+2,Credit Suisse,www.credit-suisse.com,Credit Suisse Headline,CSTypeEP,blue white black,1856,"Paradeplatz 8, Zürich, 8001, Switzerland",Zürich,8001,Switzerland,Europe,Bank
+3,Raiffeisen CH,www.raiffeisen.ch,FrutigerNext,,red white black,1899,"Raiffeisenplatz 4, St. Gallen, 9001, Switzerland",St. Gallen,9001,Switzerland,Europe,Bank
+4,Zurich Cantonal Bank,www.zkb.ch,Frutiger,,blue white black,1870,"Bahnhofstrasse 9, Zürich, 8001, Switzerland",Zürich,8001,Switzerland,Europe,Bank
+5,Julius Baer,www.juliusbaer.com,VerlagSSm,,blue white black,1890,"Hohlstrasse 602, Zürich, 8048, Switzerland",Zürich,8048,Switzerland,Europe,Bank
+6,Banque Cantonale Vaudoise,www.bcv.ch,Roboto,,green white black,1845,"Place Saint-François 14, Lausanne, 1003, Switzerland",Lusanne,1003,Switzerland,Europe,Bank
+7,EFG International,www.efginternational.com,Fira Sans regular,,red black white,1995,"Bleicherweg 8, Zürich",Zürich,8001,Switzerland,Europe,Bank
+8,Basler Kantonalbank,www.bkb.ch,Neue Haas Unica,,black white,1899,"Spiegelgasse 2, Basel, 4002",Basel,4002,Switzerland,Europe,Bank
+9,Luzerner Kantonalbank,www.lukb.ch,Yoga Sans,,blue white black,1850,"Pilatusstrasse 12, Luzern, 6002",Luzern,6002,Switzerland,Europe,Bank
+10,St. Galler Kantonalbank,www.sgkb.ch,FrutigerNeueLTW06-Regular,,green white black,1868,"St Leonhardstrasse 25, St. Gallen, 9001",St. Gallen,9001,Switzerland,Europe,Bank
+11,Union Bancaire Privee,www.ubp.com,HelveticaNeue-Light - regular,,green white black,1969,"Rue du Rhône 96-98, Geneve, 1211",Geneve,1211,Switzerland,Europe,Bank
+12,Berner Kantonalbank,www.bekb.ch,FrutigerLTW01 - 306,,red white black,1834,"Bundesplatz 8, Bern, 3001",Bern,3001,Switzerland,Europe,Bank
+13,Aargauische Kantonalbank,www.akb.ch,Futura Light - regular,,blue white black,1913,"Bahnhofplatz 1, Aarau, 5001, Switzerland",Aarau,5001,Switzerland,Europe,Bank
+14,Valiant Holding,www.valiant.ch,ObjektivRegular - regular,,violet white black,1997,"Bundesplatz 4, Bern, 3001",Bern,3001,Switzerland,Europe,Bank
+15,Graubuendner Kantonalbank,www.gkb.ch,Serif - regular,Verdana - regular,blue white black,1870,"Postplatz, Chur, 7002",Chur,7002,Switzerland,Europe,Bank
+16,Basellandschaftliche Kantonalbank,www.blkb.ch,Futura-pt - 304,,red white black,1864,"Rheinstrasse 7, Liestal, 4410",Liestal,4410,Switzerland,Europe,Bank
+17,Thurgauer Kantonalbank,www.tkb.ch,TKB Noto Sans - regular,,green white,1871,"Bankplatz 1, Weinfelden, 8570",Weinfelden,8570,Switzerland,Europe,Bank
+18,Banque Cantonale de Fribourg,www.bcf.ch,FrutigerNext - regular,,blue white black,1892,"Bd de Pérolles 1, Fribourg, 1701",Fribourg,1701,Switzerland,Europe,Bank
+19,Banque Cantonale de Geneve,www.bcge.ch,Open Sans - regular,,red white black,1815,"Quai de L'Ile 17, Geneve, 1204",Geneve,1204,Switzerland,Europe,Bank
+20,Vontobel Holding,www.vontobel.com,Vontobel Sans regular,,yellow black white,1924,"Gotthardstrasse 43, Zürich, 8002",Zürich,8002,Switzerland,Europe,Bank
+21,Schwyzer Kantonalbank,www.szkb.ch,Futura Book - regular,,red white black,1890,"Bahnhofstrasse 3, Schwyz, 6431",Schwyz,6431,Switzerland,Europe,Bank
+22,Walliser Kantonalbank,www.bcvs.ch,TheMixSemiLight - regular,OpenSansLight - regular,red white black,1916,"Kantonsstrasse 6, Visp, 3930",Visp,3930,Switzerland,Europe,Bank
+23,Zuger Kantonalbank,www.zugerkb.ch,Open Sans - regular,Open Sans light - regular,blue white black,1892,"Baarerstrasse 37, Zug, 6301",Zug,6301,Switzerland,Europe,Bank
+24,Banca dello Stato del Cantone Ticino,www.bancastato.ch,Roboto-Regular - regular,FuturaBT-Bold - regular,red white black,1915,"Via Giovan Battista Pioda 7, Bellinzona, 6900",Bellinzona,6900,Switzerland,Europe,Bank
+25,Banque Cantonale Noichatelois,www.bcn.ch,Arial - regular,Frutiger W01 - bold,green red white black,1883,"Place Pury 4, Neuchatel, 2001",Neuchatel,2001,Switzerland,Europe,Bank
+26,Postfinance,www.postfinance.ch,Frutiger regular,,yellow red black white,1906,"Mingerstrasse 20, Bern, 3030",Bern,3030,Switzerland,Europe,Bank
+27,Bank of international settlements,www.bis.org,Open Sans regular,,red black white,1930,"Centralbahnplatz 2, Basel, 4051",Basel,4051,Switzerland,Europe,Bank
+28,Swiss national bank,www.snb.ch,Arial,,blue white,1905,"Bundesplatz 1, Bern, 3003",Bern,3003,Switzerland,Europe,Bank
+29,Migros Bank,www.migrosbank.ch,Migrosbank_Kievit_Book - regular,Arial,green red white black,1958,"Seidengasse 12, Zürich, 8001",Zürich,8001,Switzerland,Europe,Bank
+30,Coop Bank Cler,www.cler.ch,Cler - regular,,blue white black,1928,"Aeschenplatz 3, Basel, 4052",Basel,4052,Switzerland,Europe,Bank
+31,Bank J. Safra Sarasin,www.jsafrasarasin.com,Sabon_ltbold - regular,Arial,,1841,"Elisabethenstrasse 62, Basel, 4002",Basel,4002,Switzerland,Europe,Bank

@@ -9,6 +9,8 @@ IN,Bank Name,CEO,Year,Total Assets,Employees
 1,UBS,Sergio Ermotti,2018,958489,66888
 1,UBS,Sergio Ermotti,2019,972183,68601
 1,UBS,Ralph Hamers,2020,1125765,71551
+1,UBS,Ralph Hamers,2021,1117182,71385
+1,UBS,Ralph Hamers,2022,,
 2,Credit Suisse,Brady W. Dougan,2011,1049160,49700
 2,Credit Suisse,Brady W. Dougan,2012,924280,47400
 2,Credit Suisse,Brady W. Dougan,2013,872806,46000
@@ -17,8 +19,10 @@ IN,Bank Name,CEO,Year,Total Assets,Employees
 2,Credit Suisse,Tidjane Thiam,2016,819861,47170
 2,Credit Suisse,Tidjane Thiam,2017,796289,46840
 2,Credit Suisse,Tidjane Thiam,2018,768916,45680
-2,Credit Suisse,Tidjane Thiam,2019,787295,47860
-2,Credit Suisse,Thomas Gottstein,2020,805822,48770
+2,Credit Suisse,Tidjane Thiam,2019,801829,47860
+2,Credit Suisse,Thomas Gottstein,2020,818965,48770
+2,Credit Suisse,Thomas Gottstein,2021,755833,50110
+2,Credit Suisse,Thomas Gottstein,2022,,
 3,Raiffeisen Switzerland,Pierin Vincenz,2011,147239,9770
 3,Raiffeisen Switzerland,Pierin Vincenz,2012,168124,10540
 3,Raiffeisen Switzerland,Pierin Vincenz,2013,176575,10593
@@ -28,7 +32,9 @@ IN,Bank Name,CEO,Year,Total Assets,Employees
 3,Raiffeisen Switzerland,Patrik Gisel,2017,227728,11158
 3,Raiffeisen Switzerland,Patrik Gisel,2018,225333,10947
 3,Raiffeisen Switzerland,Heinz Huber,2019,248345,11045
-3,Raiffeisen Switzerland,Heinz Huber,2020,266135,10947
+3,Raiffeisen Switzerland,Heinz Huber,2020,259653,11207
+3,Raiffeisen Switzerland,Heinz Huber,2021,284489,11465
+3,Raiffeisen Switzerland,Heinz Huber,2022,,
 4,Zurich Cantonal Bank,Martin Scholl,2011,133999,5101
 4,Zurich Cantonal Bank,Martin Scholl,2012,150694,5068
 4,Zurich Cantonal Bank,Martin Scholl,2013,149707,4818
@@ -39,6 +45,8 @@ IN,Bank Name,CEO,Year,Total Assets,Employees
 4,Zurich Cantonal Bank,Martin Scholl,2018,169408,5087
 4,Zurich Cantonal Bank,Martin Scholl,2019,167054,5145
 4,Zurich Cantonal Bank,Martin Scholl,2020,188364,5180
+4,Zurich Cantonal Bank,Martin Scholl,2021,190907,5140
+4,Zurich Cantonal Bank,Martin Scholl,2022,,
 5,Julius Baer,Boris F. J. Collardi,2011,52929,3643
 5,Julius Baer,Boris F. J. Collardi,2012,54821,3721
 5,Julius Baer,Boris F. J. Collardi,2013,72522,5390
@@ -49,6 +57,8 @@ IN,Bank Name,CEO,Year,Total Assets,Employees
 5,Julius Baer,Bernhard Hodler,2018,102898,6693
 5,Julius Baer,Philipp Rickenbacher,2019,102035,6639
 5,Julius Baer,Philipp Rickenbacher,2020,109137,6606
+5,Julius Baer,Philipp Rickenbacher,2021,116306,6727
+5,Julius Baer,Philipp Rickenbacher,2022,,
 6,Banque Cantonale Vaudoise,Pascal Kiener,2011,37903,2042
 6,Banque Cantonale Vaudoise,Pascal Kiener,2012,39800,1931
 6,Banque Cantonale Vaudoise,Pascal Kiener,2013,40454,1987
@@ -59,6 +69,8 @@ IN,Bank Name,CEO,Year,Total Assets,Employees
 6,Banque Cantonale Vaudoise,Pascal Kiener,2018,47863,1896
 6,Banque Cantonale Vaudoise,Pascal Kiener,2019,48352,1921
 6,Banque Cantonale Vaudoise,Pascal Kiener,2020,53186,1909
+6,Banque Cantonale Vaudoise,Pascal Kiener,2021,55952,1932
+6,Banque Cantonale Vaudoise,Pascal Kiener,2022,,
 7,EFG International,Giorgio Pradelli,2011,21041,2547
 7,EFG International,Giorgio Pradelli,2012,23605,2260
 7,EFG International,Giorgio Pradelli,2013,21699,1989
@@ -68,7 +80,9 @@ IN,Bank Name,CEO,Year,Total Assets,Employees
 7,EFG International,Giorgio Pradelli,2017,42022,3366
 7,EFG International,Giorgio Pradelli,2018,40161,3153
 7,EFG International,Giorgio Pradelli,2019,40985,3151
-7,EFG International,Giorgio Pradelli,2020,40637,3149
+7,EFG International,Giorgio Pradelli,2020,40637,3073
+7,EFG International,Giorgio Pradelli,2021,42100,2932
+7,EFG International,Giorgio Pradelli,2022,,
 8,Basler Kantonalbank,Rudolf Matter,2011,38760,1347
 8,Basler Kantonalbank,Rudolf Matter,2012,39128,1347
 8,Basler Kantonalbank,Andreas Sturm,2013,39193,1340
@@ -79,6 +93,8 @@ IN,Bank Name,CEO,Year,Total Assets,Employees
 8,Basler Kantonalbank,Simone Westerfeld,2018,44031,1238
 8,Basler Kantonalbank,Basil Heeb,2019,44820,1284
 8,Basler Kantonalbank,Basil Heeb,2020,54435,1320
+8,Basler Kantonalbank,Basil Heeb,2021,53470,1289
+8,Basler Kantonalbank,Basil Heeb,2022,,
 9,Luzerner Kantonalbank,Bernard Kobler,2011,26856,1097
 9,Luzerner Kantonalbank,Bernard Kobler,2012,28044,1105
 9,Luzerner Kantonalbank,Bernard Kobler,2013,28444,1105
@@ -89,6 +105,8 @@ IN,Bank Name,CEO,Year,Total Assets,Employees
 9,Luzerner Kantonalbank,Daniel Salzmann,2018,38761,1199
 9,Luzerner Kantonalbank,Daniel Salzmann,2019,42493,1040
 9,Luzerner Kantonalbank,Daniel Salzmann,2020,48738,1049
+9,Luzerner Kantonalbank,Daniel Salzmann,2021,52837,1075
+9,Luzerner Kantonalbank,Daniel Salzmann,2022,,
 10,St. Galler Kantonalbank,Hanspeter Wohlwend,2011,26074,1296
 10,St. Galler Kantonalbank,Hanspeter Wohlwend,2012,27638,1315
 10,St. Galler Kantonalbank,Hanspeter Wohlwend,2013,27851,1306
@@ -99,6 +117,8 @@ IN,Bank Name,CEO,Year,Total Assets,Employees
 10,St. Galler Kantonalbank,Roland Ledergerber,2018,33146,1254
 10,St. Galler Kantonalbank,Roland Ledergerber,2019,35943,1276
 10,St. Galler Kantonalbank,Roland Ledergerber,2020,38548,1297
+10,St. Galler Kantonalbank,Christian Schmid,2021,39581,1314
+10,St. Galler Kantonalbank,Christian Schmid,2022,,
 11,Union Bancaire Privee,Guy de Picciotto,2011,17983,1491
 11,Union Bancaire Privee,Guy de Picciotto,2012,18860,1270
 11,Union Bancaire Privee,Guy de Picciotto,2013,18387,1341
@@ -108,7 +128,9 @@ IN,Bank Name,CEO,Year,Total Assets,Employees
 11,Union Bancaire Privee,Guy de Picciotto,2017,32036,1697
 11,Union Bancaire Privee,Guy de Picciotto,2018,32570,1781
 11,Union Bancaire Privee,Guy de Picciotto,2019,32755,1743
-11,Union Bancaire Privee,Guy de Picciotto,2020,37803,1812
+11,Union Bancaire Privee,Guy de Picciotto,2020,37809,1812
+11,Union Bancaire Privee,Guy de Picciotto,2021,38785,1904
+11,Union Bancaire Privee,Guy de Picciotto,2022,,
 12,Berner Kantonalbank,Jürg Rieben ,2011,25219,1465
 12,Berner Kantonalbank,Jürg Rieben ,2012,26371,1456
 12,Berner Kantonalbank,Jürg Rieben ,2013,26663,1418
@@ -119,6 +141,8 @@ IN,Bank Name,CEO,Year,Total Assets,Employees
 12,Berner Kantonalbank,Hanspeter Rufenacht ,2018,30589,1206
 12,Berner Kantonalbank,Armin Brun,2019,32929,1226
 12,Berner Kantonalbank,Armin Brun,2020,36421,1230
+12,Berner Kantonalbank,Armin Brun,2021,38994,1228
+12,Berner Kantonalbank,Armin Brun,2022,,
 13,Aargauische Kantonalbank,Arthur Zeller,2011,19907,730
 13,Aargauische Kantonalbank,Dieter Egloff,2012,21526,670
 13,Aargauische Kantonalbank,Dieter Egloff,2013,22217,670
@@ -128,7 +152,9 @@ IN,Bank Name,CEO,Year,Total Assets,Employees
 13,Aargauische Kantonalbank,Pascal Koradi,2017,26961,693
 13,Aargauische Kantonalbank,Dieter Widmer,2018,28351,708
 13,Aargauische Kantonalbank,Dieter Widmer,2019,30242,708
-13,Aargauische Kantonalbank,Dieter Widmer,2020,31800,832
+13,Aargauische Kantonalbank,Dieter Widmer,2020,31777,726
+13,Aargauische Kantonalbank,Dieter Widmer,2021,34331,755
+13,Aargauische Kantonalbank,Dieter Widmer,2022,,
 14,Valiant Holding,Michael Hobmeier,2011,25215,1073
 14,Valiant Holding,Ewald Burgener ,2012,25286,986
 14,Valiant Holding,Ewald Burgener ,2013,25452,885
@@ -139,6 +165,8 @@ IN,Bank Name,CEO,Year,Total Assets,Employees
 14,Valiant Holding,Markus Gygax ,2018,27382,890
 14,Valiant Holding,Ewald Burgener ,2019,29905,917
 14,Valiant Holding,Ewald Burgener ,2020,33184,937
+14,Valiant Holding,Ewald Burgener ,2021,35560,1000
+14,Valiant Holding,Ewald Burgener ,2022,,
 15,Graubuendner Kantonalbank,Daniel Fust,2011,17869,852
 15,Graubuendner Kantonalbank,Daniel Fust,2012,19364,847
 15,Graubuendner Kantonalbank,Daniel Fust,2013,20001,827
@@ -149,6 +177,8 @@ IN,Bank Name,CEO,Year,Total Assets,Employees
 15,Graubuendner Kantonalbank,Daniel Fust,2018,26453,781
 15,Graubuendner Kantonalbank,Daniel Fust,2019,28508,783
 15,Graubuendner Kantonalbank,Daniel Fust,2020,31419,791
+15,Graubuendner Kantonalbank,Daniel Fust,2021,32789,818
+15,Graubuendner Kantonalbank,Daniel Fust,2022,,
 16,Basellandschaftliche Kantonalbank,Beat Oberlin,2011,18742,767
 16,Basellandschaftliche Kantonalbank,Beat Oberlin,2012,19241,773
 16,Basellandschaftliche Kantonalbank,Beat Oberlin,2013,20523,777
@@ -158,7 +188,9 @@ IN,Bank Name,CEO,Year,Total Assets,Employees
 16,Basellandschaftliche Kantonalbank,John Hafelfinger,2017,24689,673
 16,Basellandschaftliche Kantonalbank,John Hafelfinger,2018,25340,685
 16,Basellandschaftliche Kantonalbank,John Hafelfinger,2019,27280,687
-16,Basellandschaftliche Kantonalbank,John Hafelfinger,2020,29769,710
+16,Basellandschaftliche Kantonalbank,John Hafelfinger,2020,29769,601
+16,Basellandschaftliche Kantonalbank,John Hafelfinger,2021,32867,559
+16,Basellandschaftliche Kantonalbank,John Hafelfinger,2022,,
 17,Thurgauer Kantonalbank,Peter Hinder,2011,16728,664
 17,Thurgauer Kantonalbank,Peter Hinder,2012,17723,711
 17,Thurgauer Kantonalbank,Peter Hinder,2013,18681,722
@@ -167,8 +199,10 @@ IN,Bank Name,CEO,Year,Total Assets,Employees
 17,Thurgauer Kantonalbank,Heinz Huber,2016,21626,775
 17,Thurgauer Kantonalbank,Heinz Huber,2017,22346,759
 17,Thurgauer Kantonalbank,Heinz Huber,2018,23244,764
-17,Thurgauer Kantonalbank,Thomas Koller,2019,25610,720
-17,Thurgauer Kantonalbank,Thomas Koller,2020,28707,742
+17,Thurgauer Kantonalbank,Thomas Koller,2019,25609,720
+17,Thurgauer Kantonalbank,Thomas Koller,2020,28707,791
+17,Thurgauer Kantonalbank,Thomas Koller,2021,30134,800
+17,Thurgauer Kantonalbank,Thomas Koller,2022,,
 18,Banque Cantonale de Fribourg,Albert Michel,2011,14425,335
 18,Banque Cantonale de Fribourg,Edgar Jeitziner,2012,16271,444
 18,Banque Cantonale de Fribourg,Edgar Jeitziner,2013,17665,448
@@ -179,6 +213,8 @@ IN,Bank Name,CEO,Year,Total Assets,Employees
 18,Banque Cantonale de Fribourg,Edgar Jeitziner,2018,22926,467
 18,Banque Cantonale de Fribourg,Edgar Jeitziner,2019,24639,471
 18,Banque Cantonale de Fribourg,Daniel Wenger,2020,26714,470
+18,Banque Cantonale de Fribourg,Daniel Wenger,2021,27592,470
+18,Banque Cantonale de Fribourg,Daniel Wenger,2022,,
 19,Banque Cantonale de Geneve,Blaise Goetschin,2011,15871,783
 19,Banque Cantonale de Geneve,Blaise Goetschin,2012,16473,783
 19,Banque Cantonale de Geneve,Blaise Goetschin,2013,16619,782
@@ -188,7 +224,9 @@ IN,Bank Name,CEO,Year,Total Assets,Employees
 19,Banque Cantonale de Geneve,Blaise Goetschin,2017,21401,799
 19,Banque Cantonale de Geneve,Blaise Goetschin,2018,23034,811
 19,Banque Cantonale de Geneve,Blaise Goetschin,2019,24919,833
-19,Banque Cantonale de Geneve,Blaise Goetschin,2020,26867,797
+19,Banque Cantonale de Geneve,Blaise Goetschin,2020,27542,820
+19,Banque Cantonale de Geneve,Blaise Goetschin,2021,27914,824
+19,Banque Cantonale de Geneve,Blaise Goetschin,2022,,
 20,Vontobel Holding,Herbert Scheidt,2011,18692,1413
 20,Vontobel Holding,Zeno Staub,2012,21062,1383
 20,Vontobel Holding,Zeno Staub,2013,19643,1337
@@ -198,7 +236,9 @@ IN,Bank Name,CEO,Year,Total Assets,Employees
 20,Vontobel Holding,Zeno Staub,2017,21166,1688
 20,Vontobel Holding,Zeno Staub,2018,26037,1995
 20,Vontobel Holding,Zeno Staub,2019,26240,1981
-20,Vontobel Holding,Zeno Staub,2020,31422,2015
+20,Vontobel Holding,Zeno Staub,2020,31422,2094
+20,Vontobel Holding,Zeno Staub,2021,32398,2187
+20,Vontobel Holding,Zeno Staub,2022,,
 21,Schwyzer Kantonalbank,Alois Camenzind,2011,13026,466
 21,Schwyzer Kantonalbank,Kuno Kennel,2012,13579,469
 21,Schwyzer Kantonalbank,Kuno Kennel,2013,14374,483
@@ -209,6 +249,8 @@ IN,Bank Name,CEO,Year,Total Assets,Employees
 21,Schwyzer Kantonalbank,Kuno Kennel,2018,18277,487
 21,Schwyzer Kantonalbank,Karl Roos,2019,20081,483
 21,Schwyzer Kantonalbank,August Benz,2020,21425,495
+21,Schwyzer Kantonalbank,Susanne Thellung,2021,22118,513
+21,Schwyzer Kantonalbank,Susanne Thellung,2022,,
 22,Walliser Kantonalbank,Pascal Perruchoud,2011,11489,441
 22,Walliser Kantonalbank,Pascal Perruchoud,2012,12370,444
 22,Walliser Kantonalbank,Pascal Perruchoud,2013,12759,447
@@ -219,6 +261,8 @@ IN,Bank Name,CEO,Year,Total Assets,Employees
 22,Walliser Kantonalbank,Pascal Perruchoud,2018,16122,544
 22,Walliser Kantonalbank,Pascal Perruchoud,2019,16568,542
 22,Walliser Kantonalbank,Oliver Schnyder,2020,18067,488
+22,Walliser Kantonalbank,Oliver Schnyder,2021,18500,487
+22,Walliser Kantonalbank,Oliver Schnyder,2022,,
 23,Zuger Kantonalbank,Pascal Niquille,2011,11645,404
 23,Zuger Kantonalbank,Pascal Niquille,2012,12314,437
 23,Zuger Kantonalbank,Pascal Niquille,2013,13303,396
@@ -228,7 +272,9 @@ IN,Bank Name,CEO,Year,Total Assets,Employees
 23,Zuger Kantonalbank,Pascal Niquille,2017,14565,398
 23,Zuger Kantonalbank,Pascal Niquille,2018,14743,397
 23,Zuger Kantonalbank,Pascal Niquille,2019,15695,404
-23,Zuger Kantonalbank,Hanspeter Rhyner,2020,16915,458
+23,Zuger Kantonalbank,Hanspeter Rhyner,2020,16915,406
+23,Zuger Kantonalbank,Hanspeter Rhyner,2021,17506,402
+23,Zuger Kantonalbank,Hanspeter Rhyner,2022,,
 24,Banca dello Stato del Cantone Ticino,Fulvio Pelli ,2011,8993,453
 24,Banca dello Stato del Cantone Ticino,Fulvio Pelli ,2012,9395,505
 24,Banca dello Stato del Cantone Ticino,Fulvio Pelli ,2013,10899,513
@@ -238,7 +284,9 @@ IN,Bank Name,CEO,Year,Total Assets,Employees
 24,Banca dello Stato del Cantone Ticino,Bernardino Bulla,2017,13526,486
 24,Banca dello Stato del Cantone Ticino,Bernardino Bulla,2018,14321,483
 24,Banca dello Stato del Cantone Ticino,Bernardino Bulla,2019,14861,476
-24,Banca dello Stato del Cantone Ticino,Bernardino Bulla,2020,15924,476
+24,Banca dello Stato del Cantone Ticino,Bernardino Bulla,2020,16486,476
+24,Banca dello Stato del Cantone Ticino,Fabrizio Cieslakiewicz,2021,17577,444
+24,Banca dello Stato del Cantone Ticino,Fabrizio Cieslakiewicz,2022,,
 25,Banque Cantonale Noichatelois,Jean Noel Duc,2011,8065,318
 25,Banque Cantonale Noichatelois,Jean Noel Duc,2012,8517,310
 25,Banque Cantonale Noichatelois,Jean Noel Duc,2013,9292,312
@@ -249,6 +297,8 @@ IN,Bank Name,CEO,Year,Total Assets,Employees
 25,Banque Cantonale Noichatelois,Pierre Leuenberger,2018,10847,311
 25,Banque Cantonale Noichatelois,Pierre Leuenberger,2019,11564,305
 25,Banque Cantonale Noichatelois,Pierre Leuenberger,2020,11512,305
+25,Banque Cantonale Noichatelois,Pierre Leuenberger,2021,11557,294
+25,Banque Cantonale Noichatelois,Pierre Leuenberger,2022,,
 26,Postfinance,Jürg Bucher,2011,108254,3425
 26,Postfinance,Hansruedi Kong,2012,120016,3479
 26,Postfinance,Hansruedi Kong,2013,115193,3432
@@ -259,6 +309,8 @@ IN,Bank Name,CEO,Year,Total Assets,Employees
 26,Postfinance,Hansruedi Kong,2018,118173,3325
 26,Postfinance,Hansruedi Kong,2019,125742,3243
 26,Postfinance,Hansruedi Kong,2020,117393,3260
+26,Postfinance,Hansruedi Kong,2021,121667,3237
+26,Postfinance,Hansruedi Kong,2022,,
 27,Bank of international settlements,Christian Noyer,2011,233227,547
 27,Bank of international settlements,Christian Noyer,2012,213155,554
 27,Bank of international settlements,Christian Noyer,2013,203099,576
@@ -269,6 +321,8 @@ IN,Bank Name,CEO,Year,Total Assets,Employees
 27,Bank of international settlements,Agustín Carstens,2018,256489,608
 27,Bank of international settlements,Agustín Carstens,2019,291095,584
 27,Bank of international settlements,Agustín Carstens,2020,308497,595
+27,Bank of international settlements,François Villeroy de Galhau,2021,356154,634
+27,Bank of international settlements,François Villeroy de Galhau,2022,,
 28,Swiss national bank,Philipp Hildebrand,2011,346079,723
 28,Swiss national bank,Thomas Jordan,2012,499433,755
 28,Swiss national bank,Thomas Jordan,2013,490382,832
@@ -279,6 +333,8 @@ IN,Bank Name,CEO,Year,Total Assets,Employees
 28,Swiss national bank,Thomas Jordan,2018,817068,923
 28,Swiss national bank,Thomas Jordan,2019,860956,934
 28,Swiss national bank,Thomas Jordan,2020,999027,950
+28,Swiss national bank,Thomas Jordan,2021,1056776,950
+28,Swiss national bank,Thomas Jordan,2022,,
 29,Migros Bank,Harald Nedwed,2011,35846,1395
 29,Migros Bank,Harald Nedwed,2012,37804,1375
 29,Migros Bank,Harald Nedwed,2013,38882,1354
@@ -289,6 +345,8 @@ IN,Bank Name,CEO,Year,Total Assets,Employees
 29,Migros Bank,Harald Nedwed,2018,44679,1344
 29,Migros Bank,Harald Nedwed,2019,47033,1362
 29,Migros Bank,Manuel Kunzelmann,2020,49405,1367
+29,Migros Bank,Manuel Kunzelmann,2021,52222,1465
+29,Migros Bank,Manuel Kunzelmann,2022,,
 30,Coop Bank Cler,Andreas Waespi,2011,14792,687
 30,Coop Bank Cler,Andreas Waespi,2012,15255,626
 30,Coop Bank Cler,Andreas Waespi,2013,15053,630
@@ -298,7 +356,9 @@ IN,Bank Name,CEO,Year,Total Assets,Employees
 30,Coop Bank Cler,Sandra Lienhart,2017,17507,446
 30,Coop Bank Cler,Mariateresa Vacalli,2018,17900,448
 30,Coop Bank Cler,Mariateresa Vacalli,2019,18812,500
-30,Coop Bank Cler,Mariateresa Vacalli,2020,19595,450
+30,Coop Bank Cler,Mariateresa Vacalli,2020,19920,435
+30,Coop Bank Cler,Mariateresa Vacalli,2021,20105,425
+30,Coop Bank Cler,Mariateresa Vacalli,2022,,
 31,Bank J. Safra Sarasin,Joachim H. Straehle,2011,17495,1715
 31,Bank J. Safra Sarasin,Joachim H. Straehle,2012,17771,1737
 31,Bank J. Safra Sarasin,Edmond Michaan,2013,28995,1990
@@ -309,3 +369,5 @@ IN,Bank Name,CEO,Year,Total Assets,Employees
 31,Bank J. Safra Sarasin,Edmond Michaan,2018,35230,2151
 31,Bank J. Safra Sarasin,Daniel Belfer,2019,36627,2178
 31,Bank J. Safra Sarasin,Daniel Belfer,2020,37995,2178
+31,Bank J. Safra Sarasin,Daniel Belfer,2021,42325,2339
+31,Bank J. Safra Sarasin,Daniel Belfer,2022,,

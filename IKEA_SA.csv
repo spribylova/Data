@@ -1,0 +1,97 @@
+name,category,material,price,color,height,width,depth
+FLINTAN,armchairs,fabric,99,white,20,60,20
+GUNDE,desk chairs,plastic,19,black,60,40,60
+GUNDE,desk chairs,plastic,19,white,60,40,60
+MARTIN,dining chairs,wood,29,grey,40,40,40
+RENBERGET,cafe chairs,metal,49,beige ,50,100,90
+ADDE,childrens chairs,plastic,79,white,60,20,30
+EKEDALEN,chair pads,leather,89,blue,70,70,70
+STEFAN,baby chairs,rattan,39,green,80,50,80
+HARRY,step stools,bamboo,99,yellow,90,90,50
+LERHAMN,dining sets,cotton,29,red,100,30,100
+MARIUS,bar stools,plastic,69,grey,110,40,40
+MARIUS,bar stools,plastic,69,black,110,40,40
+MARIUS,bar stools,plastic,69,white,110,40,40
+LOBERGET,armchairs,fabric,9,white,20,60,20
+LEIFARNE,desk chairs,solid wood,39,black,30,80,60
+ODDVAR,dining chairs,wood,299,grey,40,40,40
+SANDSBERG,cafe chairs,metal,149,beige ,50,100,90
+JOKKMOKK,desk chairs,plastic,119,white,110,60,50
+JOKKMOKK,desk chairs,plastic,119,black,110,60,50
+TERJE,chair pads,leather,59,blue,70,70,70
+KYRRE,baby chairs,rattan,349,green,80,50,80
+DAGOTTO,step stools,bamboo,49,yellow,90,90,50
+PYNTEN,dining sets,cotton,69,red,100,30,100
+VALFRED,desk chairs,solid wood,39,black,30,80,60
+FANBYN,dining chairs,wood,299,grey,40,40,40
+BERGMUND,cafe chairs,metal,149,blue,50,100,90
+BUSKBO,dining chairs,wood,119,green,60,20,30
+FEJAN,cafe chairs,metal,59,yellow,70,70,70
+SKRUVSTA,childrens chairs,plastic,349,white,80,50,80
+TEODORES,chair pads,leather,49,white,90,90,50
+EKEDALEN,childrens chairs,plastic,79,pink,60,50,40
+EKEDALEN,childrens chairs,plastic,79,blue,60,50,40
+BOLMEN,chair pads,fabric,9,green,40,30,20
+BOLMEN,chair pads,fabric,9,white,40,30,20
+BOLMEN,chair pads,fabric,9,grey,40,30,20
+BOLMEN,chair pads,fabric,9,black,40,30,20
+SAKARIAS,baby chairs,rattan,49,yellow,80,50,80
+STEIN,step stools,bamboo,69,green,90,90,50
+JANINGE,chair pads,leather,39,blue,70,70,70
+LIDKULLEN,armchairs,rattan,299,green,80,50,80
+SUNDVIK,desk chairs,metal,149,beige ,90,90,50
+KRITTER,dining chairs,plastic,99,yellow,90,20,30
+KOLON,dining chairs,wood,39,green,80,50,80
+FLISAT,cafe chairs,metal,99,yellow,90,90,50
+ANTILOP,childrens chairs,plastic,59,blue,70,20,30
+LERHAMN,chair pads,leather,79,black,70,80,60
+VOLFGANG,dining chairs,wood,89,grey,70,40,40
+NORDMYRA,cafe chairs,metal,39,beige ,80,100,90
+AGAM,childrens chairs,plastic,99,yellow,90,20,30
+MELLTORP,chair pads,leather,39,green,80,70,70
+FRANKLIN,baby chairs,rattan,99,yellow,90,50,80
+INNA,childrens chairs,plastic,59,blue,70,20,30
+VANGSTA,chair pads,leather,119,blue,70,70,70
+SODERHAMN,baby chairs,rattan,149,green,80,50,80
+DJUPVIK,chair pads,leather,119,blue,70,70,70
+UTTER,baby chairs,rattan,59,green,80,50,80
+HOLMSUND,step stools,bamboo,49,yellow,80,50,80
+LYCKSELE,dining chairs,wood,149,beige ,70,70,70
+MARIUS,cafe chairs,metal,119,white,80,50,80
+TOBIAS,childrens chairs,plastic,119,white,80,50,80
+LANGUR,chair pads,leather,119,white,70,70,70
+LISABO,cafe chairs,wood,59,brown,70,70,70
+LISABO,cafe chairs,metal,59,white,70,70,70
+LISABO,cafe chairs,leather,59,blue,70,70,70
+GLIVARP,baby chairs,rattan,349,green,80,50,80
+VEDBO,armchairs,fabric,199,yellow,60,90,50
+VEDBO,armchairs,fabric,199,white,60,90,50
+VEDBO,armchairs,fabric,199,black,60,90,50
+VEDBO,armchairs,fabric,199,grey,60,90,50
+INGATORP,desk chairs,plastic,79,white,60,50,50
+INGATORP,desk chairs,plastic,79,black,60,50,50
+INGATORP,desk chairs,plastic,79,transparent,60,50,50
+INGATORP,desk chairs,plastic,79,beige,60,50,50
+GRONLID,dining chairs,wood,79,beige,70,50,30
+GRONLID,dining chairs,wood,79,white,70,40,50
+GRONLID,dining chairs,wood,79,black,70,40,60
+VASSHOLMEN,chair pads,leather,89,blue,70,70,70
+LEIFARNE,baby chairs,rattan,39,green,80,50,80
+POANG,childrens chairs,plastic,99,yellow,90,90,30
+SVENBERTIL,baby chairs,rattan,39,green,80,50,70
+BJURSTA,dining chairs,wood,99,browwn,90,90,80
+BJURSTA,dining chairs,wood,89,beige,90,90,80
+BJURSTA,dining chairs,wood,99,yellow,90,90,80
+BJURSTA,dining chairs,wood,99,yellow,90,90,80
+ORFJALL,cafe chairs,metal,59,blue,70,70,70
+NORDVIKEN,childrens chairs,plastic,349,green,80,50,80
+GLENN,chair pads,leather,99,yellow,90,90,50
+STIG,childrens chairs,bamboo,39,green,50,20,30
+STIG,childrens chairs,bamboo,39,white,50,20,30
+NILSOLLE,chair pads,metal,99,yellow,90,70,70
+DALFRED,armchairs,plastic,59,blue,70,50,80
+YNGVAR,desk chairs,plastic,129,white,90,90,50
+SJALAND,dining chairs,plastic,99,grey,60,20,30
+JARVFJALLET,desk chairs,plastic,279,black,70,50,40
+MOLTE,desk chairs,metal,25,grey,90,50,40
+MOLTE,desk chairs,metal,25,black,90,50,40

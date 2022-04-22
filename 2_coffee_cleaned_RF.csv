@@ -1,0 +1,1340 @@
+species,country_of_origin,variety,aroma,aftertaste,acidity,body,balance,sweetness,total_cup_points,moisture,altitude_mean_meters
+Arabica,Ethiopia,,8.67,8.67,8.75,8.5,8.42,10,90.58,0.12,2075
+Arabica,Ethiopia,Other,8.75,8.5,8.58,8.42,8.42,10,89.92,0.12,2075
+Arabica,Guatemala,Bourbon,8.42,8.42,8.42,8.33,8.42,10,89.75,0,1700
+Arabica,Ethiopia,,8.17,8.42,8.42,8.5,8.25,10,89,0.11,2000
+Arabica,Ethiopia,Other,8.25,8.25,8.5,8.42,8.33,10,88.83,0.12,2075
+Arabica,Brazil,,8.58,8.42,8.5,8.25,8.33,10,88.83,0.11,NA
+Arabica,Peru,Other,8.42,8.33,8.5,8.25,8.25,10,88.75,0.11,NA
+Arabica,Ethiopia,,8.25,8.5,8.42,8.33,8.5,9.33,88.67,0.03,1635
+Arabica,Ethiopia,,8.67,8.58,8.42,8.33,8.42,9.33,88.42,0.03,1635
+Arabica,Ethiopia,Other,8.08,8.5,8.5,7.67,8.42,10,88.25,0.1,1822.5
+Arabica,Ethiopia,,8.17,8.25,8.5,7.75,8.17,10,88.08,0.1,1905
+Arabica,United States,Other,8.25,8.17,8.33,8.08,8.17,10,87.92,0,1872
+Arabica,United States,Other,8.08,8.33,8.42,8,8.08,10,87.92,0,1943
+Arabica,United States (Hawaii),,8.33,8.08,8.25,8.25,8,10,87.92,0,609.6
+Arabica,Ethiopia,,8.25,8.5,8.25,8.58,8.75,9.33,87.83,0.05,1635
+Arabica,United States,Other,8,8.58,8.17,8.17,8,10,87.58,0,2080
+Arabica,Indonesia,,8.33,7.83,7.75,8.5,8.42,10,87.42,0.03,1500
+Arabica,Ethiopia,,8.17,8.25,8.33,8.42,8.33,9.33,87.33,0.05,NA
+Arabica,China,Catimor,8.42,8.08,8.17,7.92,8,10,87.25,0.1,1450
+Arabica,Ethiopia,Ethiopian Yirgacheffe,8.17,8,8.17,8.08,8.33,10,87.25,0,1850
+Arabica,United States,Other,8,8.08,8.5,8.25,8,10,87.25,0,2019
+Arabica,Costa Rica,Caturra,8.08,8,8.17,8,8.33,10,87.17,0.11,1300
+Arabica,Mexico,Other,8.17,8.17,8,7.83,8.17,10,87.17,0.13,1320
+Arabica,United States,Other,8.25,8.17,8.17,7.83,8.17,10,87.08,0,2112
+Arabica,Ethiopia,,8.42,7.92,8.17,8.33,8,10,87.08,0.11,NA
+Arabica,Brazil,Bourbon,8.5,8,8,8,8,10,86.92,0.12,1250
+Arabica,Ethiopia,,7.83,8.08,8.17,8.17,8.17,10,86.92,0.05,NA
+Arabica,Uganda,SL14,8.42,8.17,8.17,7.83,7.92,10,86.83,0.12,1950
+Arabica,Honduras,Caturra,8.17,8.08,8,8.08,8,10,86.67,0.1,1400
+Arabica,Taiwan,Sumatra,8,8,8.25,8,8.17,10,86.58,0,1200
+Arabica,Nicaragua,,7.92,8,8.33,8,8.08,10,86.58,0.08,NA
+Arabica,"Tanzania, United Republic Of",,8.42,8.17,8,7.58,8,10,86.5,0.11,NA
+Arabica,Brazil,Bourbon,8.5,8,7.75,8,8,10,86.42,0.12,1300
+Arabica,Costa Rica,Caturra,8.17,8,8.08,7.83,8,10,86.33,0,1300
+Arabica,Ethiopia,,8,7.92,8,8.08,8.08,10,86.25,0.1,1775
+Arabica,Kenya,SL34,8.08,8,8.25,7.92,7.92,10,86.25,0.12,1800
+Arabica,United States (Hawaii),Hawaiian Kona,8.08,8,7.92,7.92,7.83,10,86.25,0,NA
+Arabica,United States (Hawaii),,8.25,8.08,7.75,7.67,7.83,10,86.25,0,NA
+Arabica,Ethiopia,,7.92,8.08,8.08,8.08,8.17,10,86.25,0.1,NA
+Arabica,United States,Other,7.67,8,8,8.17,8.08,10,86.17,0,1941
+Arabica,Thailand,Caturra,7.83,7.83,8.25,7.58,7.92,10,86.17,0.1,1300
+Arabica,Brazil,Yellow Bourbon,8.17,7.92,7.75,8.33,8,10,86.17,0.08,12
+Arabica,Brazil,Yellow Bourbon,8.42,8,7.75,7.92,8,10,86.17,0.01,12
+Arabica,Taiwan,Bourbon,8.08,7.75,8.08,7.75,7.83,10,86.08,0.12,1000
+Arabica,Kenya,SL28,8.08,8,8,7.83,8.08,10,86.08,0.11,1754
+Arabica,Brazil,Bourbon,8.33,8,8,7.75,8,10,86.08,0.11,1250
+Arabica,Uganda,,8.08,7.83,7.92,8.08,7.92,10,86,0,NA
+Arabica,Colombia,Caturra,7.75,7.83,8.08,8.08,8.17,10,86,0.12,1200
+Arabica,Kenya,SL28,7.92,7.83,8.5,7.5,7.92,10,86,0.11,1860
+Arabica,Uganda,Other,8.25,7.83,8.08,8,7.92,10,86,0.1,1650
+Arabica,Ethiopia,,7.75,8,8.25,8,8,10,86,0.01,1750
+Arabica,United States (Hawaii),,8.33,7.75,8,7.75,7.83,10,86,0,426.72
+Arabica,Guatemala,Bourbon,7.92,7.92,8.08,8.08,7.83,10,85.92,0.1,NA
+Arabica,Uganda,SL14,8.17,7.92,8.08,7.83,7.75,10,85.92,0.12,1650
+Arabica,Colombia,Caturra,8,8,8.17,7.83,8,10,85.92,0,1800
+Arabica,Panama,Gesha,8,7.92,8.08,7.83,8,10,85.83,0.08,1600
+Arabica,Ethiopia,,7.83,7.92,8.08,8,7.92,10,85.83,0.1,1900
+Arabica,Guatemala,Bourbon,7.83,8,8.17,7.83,8,10,85.83,0.12,1524
+Arabica,Guatemala,Catuai,8,7.83,8.33,7.83,7.83,10,85.83,0.1,1417.32
+Arabica,Ethiopia,Caturra,7.83,7.83,8.17,7.92,8,10,85.75,0.09,NA
+Arabica,Peru,,8,8,8.08,7.92,7.75,10,85.75,0.1,NA
+Arabica,Papua New Guinea,,8.33,7.83,8.33,8,8.25,10,85.75,0.12,1700
+Arabica,El Salvador,Bourbon,7.92,8,7.92,7.75,7.83,10,85.58,0.1,1500
+Arabica,El Salvador,Bourbon,7.83,8,7.75,7.92,8.17,10,85.58,0.11,1350
+Arabica,United States (Hawaii),Hawaiian Kona,7.83,7.92,7.75,8.08,8,10,85.58,0,NA
+Arabica,Panama,Caturra,8,7.83,7.83,7.67,8.58,10,85.5,0.09,1680
+Arabica,Kenya,SL28,7.92,7.83,8.08,7.83,7.92,10,85.5,0.1,1900
+Arabica,Ethiopia,Other,7.83,7.83,7.92,7.83,8.08,10,85.5,0.12,1900
+Arabica,Uganda,SL14,8.33,7.67,7.92,7.67,7.92,10,85.5,0.12,1600
+Arabica,Guatemala,Bourbon,8,7.67,8.33,7.83,8,10,85.5,0.11,1731.264
+Arabica,Ethiopia,,7.75,7.83,8.17,7.92,7.83,10,85.42,0.1,1900
+Arabica,Uganda,SL14,8.08,7.83,7.67,8,7.83,10,85.42,0.12,1950
+Arabica,United States (Hawaii),Hawaiian Kona,7.92,7.75,7.92,7.75,7.92,10,85.42,0,NA
+Arabica,Brazil,Bourbon,8,8,7.67,7.75,8,10,85.42,0.11,1250
+Arabica,El Salvador,,8.08,7.83,8.08,7.83,7.83,10,85.42,0.01,1400
+Arabica,China,Catimor,8,8,7.83,7.83,7.75,10,85.33,0.1,1700
+Arabica,Guatemala,Pacamara,7.83,7.83,7.67,7.83,8.58,10,85.33,0.11,1770
+Arabica,Costa Rica,Caturra,7.92,8,7.92,8,8.08,9.33,85.33,0,1300
+Arabica,Costa Rica,Caturra,8,7.58,7.67,8.08,8.5,10,85.33,0.1,1300
+Arabica,Kenya,SL34,7.83,7.75,8.08,7.92,7.75,10,85.33,0,1600
+Arabica,Kenya,SL34,8,7.92,8.08,7.83,7.75,10,85.33,0,1200
+Arabica,Ethiopia,,7.83,7.92,8.08,7.75,7.83,10,85.33,0.05,NA
+Arabica,Ethiopia,Typica,7.92,7.75,8.33,7.75,7.75,10,85.33,0.1,NA
+Arabica,Guatemala,Bourbon,8,7.75,8,7.92,7.83,10,85.25,0.1,NA
+Arabica,Colombia,Caturra,8.17,7.83,8,7.58,7.83,10,85.25,0.11,1550
+Arabica,Colombia,Caturra,7.58,7.92,7.83,8,7.92,10,85.25,0.12,1550
+Arabica,Indonesia,Sumatra Lintong,7.75,7.67,8,8.08,7.83,10,85.17,0.11,1325
+Arabica,Guatemala,Caturra,8.25,7.67,7.92,7.75,7.67,10,85.17,0,1400
+Arabica,Ethiopia,Other,7.75,7.58,8,8,7.92,10,85.08,0.11,NA
+Arabica,Colombia,Caturra,8.17,7.58,8.08,8,7.75,10,85.08,0,2560
+Arabica,Ethiopia,,8.42,7.42,8,7.92,7.92,10,85.08,0.1,1700
+Arabica,United States (Hawaii),Hawaiian Kona,7.58,7.83,7.92,7.83,8.17,10,85.08,0.11,NA
+Arabica,Colombia,Caturra,7.83,7.75,7.75,7.83,7.83,10,85.08,0.11,2136
+Arabica,United States (Hawaii),,8.08,7.92,8,8.08,8,10,85.08,0.01,NA
+Arabica,Ethiopia,,7.67,7.83,8,7.92,7.83,10,85.08,0,NA
+Arabica,United States (Hawaii),,7.5,8.25,7.83,7.92,7.75,10,85.08,0,NA
+Arabica,Uganda,SL14,8.17,7.75,7.75,7.67,7.75,10,85,0.11,1800
+Arabica,Colombia,Caturra,8,7.75,7.92,7.75,7.83,10,85,0,NA
+Arabica,Costa Rica,Catuai,7.83,7.58,7.92,7.92,7.83,10,85,0.12,1900
+Arabica,Mexico,Typica,7.83,7.83,7.75,7.67,7.83,10,85,0.09,1300
+Arabica,Kenya,,8.17,7.92,7.75,7.67,7.83,10,85,0.11,1
+Arabica,Kenya,SL34,7.75,7.75,8.08,8,7.75,10,85,0,1580
+Arabica,Brazil,Mundo Novo,8,7.83,7.83,7.67,7.67,10,85,0.12,1100
+Arabica,Mexico,Pacamara,7.92,7.75,8.08,7.42,7.83,10,85,0,1400
+Arabica,United States (Hawaii),,7.75,7.75,7.75,8,8,10,85,0,NA
+Arabica,Guatemala,,7.83,7.67,8,7.75,7.67,10,85,0.04,1325.88
+Arabica,Colombia,Caturra,7.92,7.67,7.83,7.92,7.83,10,84.92,0,NA
+Arabica,Colombia,Caturra,7.92,7.75,7.83,7.75,8,10,84.92,0.12,1775
+Arabica,Taiwan,Typica,7.67,8,7.58,8,7.92,10,84.92,0.11,800
+Arabica,"Tanzania, United Republic Of",Other,8,7.83,7.92,7.75,7.75,10,84.92,0.12,1620
+Arabica,Colombia,Caturra,7.75,7.83,7.75,7.75,8,10,84.92,0.11,1775
+Arabica,Mexico,Typica,7.75,7.75,7.83,7.5,7.92,10,84.92,0.11,1200
+Arabica,Brazil,Bourbon,8,7.75,7.75,8,7.75,10,84.92,0.11,1200
+Arabica,Brazil,Catuai,8,7.75,8,7.5,7.75,10,84.92,0.12,1000
+Arabica,Kenya,,8,7.83,8.17,7.92,7.75,10,84.92,0.06,NA
+Arabica,Taiwan,Typica,7.92,7.83,7.83,7.83,7.83,10,84.83,0,350
+Arabica,Uganda,SL14,7.75,7.67,7.67,8.25,7.75,10,84.83,0.12,1650
+Arabica,United States (Hawaii),Hawaiian Kona,7.67,7.75,7.75,7.83,8,10,84.83,0,NA
+Arabica,Ethiopia,,7.75,7.83,7.92,7.75,7.67,10,84.83,0.1,1750
+Arabica,Ethiopia,,7.42,7.92,8,7.83,7.83,10,84.83,0.1,1750
+Arabica,Thailand,Caturra,7.75,7.75,7.75,8,7.75,10,84.75,0.12,NA
+Arabica,Kenya,SL34,7.92,7.58,7.92,7.75,7.83,10,84.75,0.13,1800
+Arabica,Honduras,Catuai,7.83,8,7.67,7.67,7.67,10,84.75,0.11,1450
+Arabica,El Salvador,,7.75,8,8.33,7.67,7.92,9.33,84.75,0.15,1200
+Arabica,Nicaragua,,7.83,7.58,7.83,7.75,7.67,10,84.75,0.18,925
+Arabica,El Salvador,Bourbon,7.83,7.5,8,7.83,7.67,10,84.67,0,1350
+Arabica,Indonesia,Java,7.92,7.75,7.75,7.75,7.75,10,84.67,0.12,1200
+Arabica,Japan,Mundo Novo,7.75,7.75,7.42,8.08,7.83,10,84.67,0.12,170
+Arabica,Costa Rica,Catuai,8.08,7.67,7.83,7.5,7.92,10,84.67,0.1,1150
+Arabica,Guatemala,Bourbon,7.75,7.58,8,7.92,7.75,10,84.67,0.1,1600
+Arabica,Costa Rica,Caturra,8.17,7.83,7.17,7.83,7.75,10,84.67,0.12,1750
+Arabica,Ethiopia,Ethiopian Yirgacheffe,8.08,7.75,7.83,7.58,7.67,10,84.67,0.1,1900
+Arabica,Costa Rica,Other,7.67,7.75,7.75,7.67,8.58,10,84.67,0.08,1750
+Arabica,Costa Rica,Catuai,8,7.83,7.75,7.75,7.75,10,84.67,0.11,1200
+Arabica,Costa Rica,,8.08,7.75,7.83,7.92,8,9.33,84.67,0,NA
+Arabica,Taiwan,Typica,8,7.75,7.75,7.75,7.75,10,84.67,0.11,1000
+Arabica,Colombia,Caturra,7.75,7.75,7.83,7.75,7.83,10,84.67,0,1550
+Arabica,Kenya,SL28,7.75,7.83,8,7.58,7.75,10,84.67,0.11,2000
+Arabica,Guatemala,Bourbon,8,7.67,7.83,7.67,8,10,84.67,0.11,1310.64
+Arabica,Guatemala,Bourbon,7.67,7.67,8,7.67,7.83,10,84.67,0.12,1524
+Arabica,Mexico,Typica,7.83,7.67,7.92,7.92,7.83,10,84.67,0.13,1200
+Arabica,Uganda,Other,7.92,7.75,7.92,7.67,7.75,10,84.67,0.11,1775
+Arabica,Peru,,7.67,7.75,7.75,7.92,7.83,10,84.67,0,NA
+Arabica,Ethiopia,,7.42,7.75,8,8,7.92,10,84.67,0.2,1750
+Arabica,Kenya,SL34,7.92,7.83,7.75,7.58,7.92,10,84.58,0.11,1754
+Arabica,Colombia,Other,7.83,7.58,7.92,7.67,7.83,10,84.58,0,1500
+Arabica,Colombia,Caturra,7.92,7.58,8,7.83,7.67,10,84.58,0,NA
+Arabica,Kenya,Peaberry,7.83,7.83,7.75,7.58,7.83,10,84.58,0.1,1800
+Arabica,Guatemala,Pacas,7.75,7.67,7.92,7.75,7.83,10,84.58,0.11,1524
+Arabica,Guatemala,Bourbon,8,7.67,7.58,7.58,7.67,10,84.58,0.09,1219.2
+Arabica,Colombia,Caturra,7.67,7.58,7.75,7.58,8.5,10,84.58,0,1550
+Arabica,Colombia,Caturra,7.75,7.83,7.75,7.58,8,10,84.58,0,1750
+Arabica,Kenya,SL28,7.75,7.75,8.08,7.75,7.75,10,84.58,0,NA
+Arabica,Colombia,Caturra,7.67,7.83,8,7.58,7.92,10,84.58,0,1750
+Arabica,Costa Rica,Bourbon,7.75,7.75,8,7.83,7.67,10,84.58,0.12,1575
+Arabica,Colombia,Caturra,7.42,7.75,7.75,8.08,7.83,10,84.58,0.11,1800
+Arabica,Brazil,Bourbon,8,7.75,7.75,7.58,7.75,10,84.58,0.12,1300
+Arabica,Brazil,Catuai,8.5,7.5,7.75,7.5,7.83,10,84.58,0.11,1100
+Arabica,Costa Rica,Caturra,7.92,7.92,7.75,7.67,7.58,10,84.5,0.1,1200
+Arabica,Uganda,SL14,7.92,7.67,7.75,7.83,7.75,10,84.5,0.11,1750
+Arabica,China,Catimor,7.75,7.67,7.83,7.75,7.67,10,84.5,0.1,1680
+Arabica,Costa Rica,Caturra,7.92,7.83,7.83,7.58,7.58,10,84.5,0.11,1700
+Arabica,Colombia,Other,8.08,7.83,7.83,7.67,7.67,10,84.5,0.12,1800
+Arabica,China,Other,7.67,7.75,7.83,7.75,7.58,10,84.5,0,1100
+Arabica,Guatemala,Bourbon,8.17,7.67,7.83,7.67,7.83,10,84.5,0.11,1310.64
+Arabica,Kenya,SL28,7.92,7.67,8,7.67,7.75,10,84.5,0.11,2000
+Arabica,Mexico,Typica,8,7.42,8.08,7.5,7.67,10,84.5,0.12,1350
+Arabica,Mexico,Typica,7.92,7.75,7.75,7.75,7.83,10,84.5,0.11,1500
+Arabica,Guatemala,Bourbon,7.67,7.67,8,7.5,7.83,10,84.5,0.11,NA
+Arabica,Brazil,,7.81,7.88,7.75,7.38,8.25,10,84.5,0,NA
+Arabica,Brazil,,8.17,7.75,7.75,7.67,7.75,10,84.5,0,NA
+Arabica,Costa Rica,Caturra,7.58,7.83,8,7.67,7.58,10,84.42,0.1,1300
+Arabica,Indonesia,Mandheling,7.67,7.83,7.58,7.83,7.83,10,84.42,0,1400
+Arabica,Colombia,Caturra,7.92,7.75,7.67,7.92,7.67,10,84.42,0,NA
+Arabica,Colombia,Caturra,7.92,7.67,7.92,7.67,7.75,10,84.42,0,1775
+Arabica,Taiwan,Typica,7.83,7.75,8,7.5,7.75,10,84.42,0.11,1200
+Arabica,United States (Hawaii),Hawaiian Kona,7.92,7.5,7.83,7.5,7.92,10,84.42,0.11,NA
+Arabica,Mexico,Pacamara,7.75,7.75,7.67,7.83,7.67,10,84.42,0.12,900
+Arabica,Ethiopia,,7.5,7.83,7.92,7.92,7.75,10,84.42,0.2,NA
+Arabica,Kenya,SL28,7.33,7.83,7.75,7.75,7.92,10,84.33,0.11,1800
+Arabica,Honduras,Caturra,7.92,7.75,7.67,7.67,7.75,10,84.33,0.1,1500
+Arabica,Colombia,Caturra,7.58,7.5,7.83,7.67,8.5,10,84.33,0,NA
+Arabica,Honduras,Catuai,7.58,7.58,7.75,7.92,7.75,10,84.33,0.11,1500
+Arabica,Colombia,,7.67,7.75,7.83,7.75,7.83,10,84.33,0,NA
+Arabica,Colombia,Caturra,7.75,8,7.67,8.08,7.83,10,84.33,0.11,442
+Arabica,Colombia,Caturra,7.75,7.33,7.83,7.58,8.08,10,84.33,0,1800
+Arabica,Mexico,Typica,8,7.75,7.83,7.5,7.67,10,84.33,0.12,1700
+Arabica,Brazil,Yellow Bourbon,8.17,7.5,7.75,7.5,7.67,10,84.33,0,1275
+Arabica,Brazil,,8,7.5,7.5,7.67,7.75,10,84.33,0.02,1050
+Arabica,Ethiopia,,7.75,7.92,7.75,7.5,7.92,10,84.33,0,1493.52
+Arabica,Guatemala,,7.5,7.75,7.67,7.92,7.92,10,84.33,0.04,1386.84
+Arabica,Taiwan,Typica,7.92,7.75,7.67,7.67,7.83,10,84.25,0.12,1000
+Arabica,Thailand,Catimor,7.83,7.75,7.42,7.83,7.67,10,84.25,0.12,1200
+Arabica,Colombia,Caturra,7.83,7.75,7.58,7.67,8,10,84.25,0.11,2560
+Arabica,Guatemala,Caturra,7.75,7.58,7.92,7.75,7.75,10,84.25,0.11,1500
+Arabica,Guatemala,Caturra,7.75,7.5,8.08,7.58,7.67,10,84.25,0.1,1099.4136
+Arabica,China,Catimor,7.83,7.58,7.75,7.75,7.75,10,84.25,0.1,1400
+Arabica,Colombia,Caturra,7.67,7.75,7.75,7.67,7.92,10,84.25,0.11,1775
+Arabica,Colombia,Caturra,7.83,7.75,7.58,7.92,7.75,10,84.25,0.12,1775
+Arabica,Colombia,Other,7.83,7.83,7.58,7.67,7.75,10,84.25,0.12,1800
+Arabica,Colombia,Caturra,7.42,7.83,7.75,7.92,7.83,10,84.25,0.12,442
+Arabica,"Tanzania, United Republic Of",Other,7.83,7.75,7.83,7.67,7.67,10,84.25,0.12,1620
+Arabica,"Tanzania, United Republic Of",Other,7.83,7.75,7.75,7.67,7.75,10,84.25,0.12,1600
+Arabica,Guatemala,Bourbon,7.83,7.5,7.92,7.58,7.75,10,84.25,0.1,1219.2
+Arabica,Colombia,Caturra,7.58,7.75,7.83,7.92,7.83,10,84.25,0.11,1700
+Arabica,United States (Hawaii),Hawaiian Kona,7.33,7.92,7.92,7.92,8.08,9.33,84.25,0.11,NA
+Arabica,Mexico,Typica,7.83,7.67,7.83,7.5,7.75,10,84.25,0.12,1450
+Arabica,Mexico,Bourbon,7.83,7.75,7.67,7.83,7.58,10,84.25,0.12,1170
+Arabica,Mexico,Bourbon,7.83,7.67,7.75,7.5,7.75,10,84.25,0.1,1400
+Arabica,Uganda,Other,8.17,7.58,7.67,7.83,7.58,10,84.25,0.13,1700
+Arabica,Guatemala,Bourbon,7.75,7.58,7.83,7.67,7.75,10,84.17,0.13,1700
+Arabica,Colombia,Caturra,7.83,7.58,7.67,7.75,7.83,10,84.17,0,NA
+Arabica,Costa Rica,Caturra,7.92,7.67,7.67,7.5,7.67,10,84.17,0.09,1700
+Arabica,Guatemala,Caturra,7.75,7.58,8,7.67,7.83,10,84.17,0.11,1116.7872
+Arabica,Guatemala,Caturra,7.75,7.58,7.92,7.67,7.67,10,84.17,0.1,1565
+Arabica,Guatemala,Bourbon,7.58,7.58,7.83,7.83,7.67,10,84.17,0.1,3280
+Arabica,Colombia,Caturra,8,7.5,7.67,8,7.83,10,84.17,0,1775
+Arabica,Nicaragua,Caturra,7.67,7.83,7.5,7.67,7.83,10,84.17,0.12,1000
+Arabica,Brazil,Catuai,7.67,7.75,7.67,7.83,7.75,10,84.17,0,1150
+Arabica,Costa Rica,Caturra,7.67,7.67,7.75,7.5,8,10,84.17,0,1850
+Arabica,Ethiopia,Gesha,7.5,7.58,7.83,7.75,7.83,10,84.17,0.1,1606.5
+Arabica,"Tanzania, United Republic Of",Other,7.92,7.75,7.75,7.75,7.58,10,84.17,0.13,1400
+Arabica,Colombia,Other,7.67,7.67,7.42,7.83,8.58,10,84.17,0.12,1530
+Arabica,Guatemala,,7.67,7.67,7.75,7.75,7.75,10,84.17,0.11,NA
+Arabica,Kenya,SL28,7.58,7.75,7.75,7.75,7.83,10,84.17,0.08,250.5
+Arabica,Brazil,Mundo Novo,7.58,7.75,7.67,7.67,8,10,84.17,0.11,1038.5
+Arabica,Guatemala,Bourbon,7.92,7.67,7.67,7.83,7.92,10,84.17,0.11,1310.64
+Arabica,El Salvador,Bourbon,8.42,7.5,7.17,7.58,8.17,10,84.17,0.11,1500
+Arabica,Colombia,Caturra,7.75,7.75,7.75,7.83,7.75,10,84.17,0,1750
+Arabica,Guatemala,Catuai,7.83,7.5,8,7.83,7.83,10,84.17,0.11,NA
+Arabica,Uganda,Other,7.83,7.5,7.83,7.83,7.75,10,84.17,0.11,1600
+Arabica,Indonesia,Mandheling,7.81,7.56,7.75,7.63,7.75,10,84.13,0.12,NA
+Arabica,Colombia,Caturra,7.83,7.42,7.5,7.83,8.5,10,84.08,0,442
+Arabica,Taiwan,Typica,7.58,7.67,7.67,7.75,7.83,10,84.08,0.1,968
+Arabica,Guatemala,Bourbon,8,7.5,7.58,7.92,7.67,10,84.08,0.1,NA
+Arabica,Colombia,Caturra,7.92,7.67,7.75,7.67,7.67,10,84.08,0,1775
+Arabica,Guatemala,Bourbon,7.58,7.67,8,7.75,7.67,10,84.08,0.1,1550
+Arabica,United States (Hawaii),Hawaiian Kona,7.83,7.83,7.83,7.42,8.08,10,84.08,0.11,NA
+Arabica,Mexico,Typica,7.67,7.67,7.75,7.67,7.75,10,84.08,0.11,1480
+Arabica,Ethiopia,Other,7.92,7.83,8,7.92,7.92,8.67,84.08,0.09,1800
+Arabica,Costa Rica,,7.58,7.67,7.75,7.83,7.75,10,84,0.08,NA
+Arabica,Ethiopia,Gesha,7.83,7.67,7.75,7.33,7.75,10,84,0.11,1800
+Arabica,Honduras,Caturra,7.42,7.75,7.92,7.75,7.58,10,84,0.1,1500
+Arabica,Guatemala,Caturra,7.67,7.58,7.92,7.75,7.67,10,84,0.12,1706.88
+Arabica,Colombia,Other,7.67,7.83,7.58,7.58,7.83,10,84,0.11,1600
+Arabica,Guatemala,Bourbon,7.92,7.42,7.92,7.75,7.83,10,84,0.1,1219.2
+Arabica,Guatemala,Bourbon,7.75,7.5,7.83,7.58,7.67,10,84,0.1,1219.2
+Arabica,Colombia,,7.67,7.67,7.67,7.67,7.75,10,84,0.12,1480
+Arabica,Colombia,Caturra,7.58,7.75,7.92,7.75,7.92,10,84,0.12,1450
+Arabica,Colombia,Caturra,7.67,7.5,7.5,7.67,7.67,10,84,0.12,1775
+Arabica,Ethiopia,Other,7.75,7.5,7.58,7.67,7.92,10,84,0.09,1550
+Arabica,Brazil,Yellow Bourbon,7.58,7.67,7.25,8,7.75,10,84,0.1,1260
+Arabica,Colombia,Caturra,7.67,7.67,7.75,7.67,7.75,10,84,0.11,1700
+Arabica,Kenya,SL34,7.67,7.5,7.75,7.92,7.67,10,84,0,1200
+Arabica,Thailand,Other,7.92,8.17,8.42,8.08,8.17,9.33,84,0.12,NA
+Arabica,Kenya,SL28,7.67,7.67,7.75,7.83,7.67,10,84,0,1650
+Arabica,Uganda,Other,7.92,7.58,7.67,7.67,7.83,10,84,0.1,1700
+Arabica,Thailand,,7.58,7.58,7.75,7.58,7.75,10,84,0.06,NA
+Arabica,Brazil,Bourbon,7.5,7.58,7.5,7.58,7.5,10,83.92,0,890
+Arabica,Mexico,Mundo Novo,7.83,7.58,7.92,7.42,7.5,10,83.92,0.11,1300
+Arabica,Thailand,Catimor,7.67,7.5,7.67,7.67,7.83,10,83.92,0.1,1350
+Arabica,Brazil,Bourbon,7.58,7.67,7.75,7.58,7.83,10,83.92,0.11,934
+Arabica,Taiwan,Typica,7.83,7.83,7.75,7.83,7.75,10,83.92,0.11,1200
+Arabica,Colombia,,7.75,7.5,7.75,7.83,7.75,10,83.92,0.11,442
+Arabica,Colombia,,7.75,7.5,7.83,7.75,7.92,10,83.92,0,NA
+Arabica,Taiwan,,7.75,7.58,7.75,7.75,7.67,10,83.92,0,NA
+Arabica,Colombia,,7.92,7.5,7.83,7.58,7.67,10,83.92,0,NA
+Arabica,Colombia,,7.83,7.58,7.58,7.75,7.75,10,83.92,0,NA
+Arabica,Colombia,Caturra,7.75,7.67,7.83,7.83,7.67,10,83.92,0,1775
+Arabica,Taiwan,Typica,8,7.92,7.92,7.67,7.33,10,83.92,0.06,950
+Arabica,Colombia,Caturra,7.67,7.67,7.75,7.67,7.83,10,83.92,0.12,1550
+Arabica,Mexico,Typica,7.67,7.58,7.67,7.75,7.83,10,83.92,0.12,900
+Arabica,Mexico,Typica,7.5,7.58,7.83,7.75,7.75,10,83.92,0.11,1500
+Arabica,Mexico,Typica,7.75,7.83,7.92,7.75,7.67,10,83.92,0,1400
+Arabica,Colombia,Caturra,7.92,7.5,7.83,7.58,7.67,10,83.83,0,2527
+Arabica,Colombia,Caturra,7.83,7.5,7.75,7.75,7.75,10,83.83,0,NA
+Arabica,Costa Rica,Caturra,7.67,7.75,7.67,7.5,7.75,10,83.83,0,1850
+Arabica,Guatemala,Bourbon,7.75,7.5,7.75,7.83,7.58,10,83.83,0.11,1500
+Arabica,Taiwan,,7.75,7.5,7.75,7.75,7.67,10,83.83,0,1200
+Arabica,Brazil,Yellow Bourbon,7.25,7.42,8,7.75,7.83,10,83.83,0,1
+Arabica,Taiwan,Typica,7.67,7.67,7.75,7.42,7.75,10,83.83,0,525
+Arabica,Ethiopia,,7.75,7.67,7.67,7.58,7.67,10,83.83,0.12,1676.5
+Arabica,Brazil,Bourbon,7.67,7.58,7.5,7.83,8.17,9.33,83.83,0,1200
+Arabica,Costa Rica,Catuai,7.83,7.5,7.83,7.75,7.83,10,83.83,0.1,1300
+Arabica,Guatemala,Bourbon,7.58,7.33,8,7.58,7.75,10,83.83,0.1,1219.2
+Arabica,Brazil,Yellow Bourbon,7.92,7.33,7.67,8.17,7.5,10,83.83,0.1,1260
+Arabica,Ecuador,,7.5,7.58,7.75,7.83,7.83,10,83.83,0.09,800
+Arabica,Colombia,Caturra,7.67,7.58,7.83,7.58,7.67,10,83.83,0.11,1750
+Arabica,Guatemala,Bourbon,7.5,7.5,7.83,7.83,7.67,10,83.83,0.11,1310.64
+Arabica,Mexico,Bourbon,7.67,7.67,7.42,7.67,7.5,10,83.83,0.1,1218
+Arabica,Mexico,Pacas,7.67,7.5,7.75,7.75,7.75,10,83.83,0.11,1300
+Arabica,Brazil,Yellow Bourbon,7.83,7.58,7.67,7.5,7.58,10,83.83,0.12,1250
+Arabica,Thailand,,7.75,7.58,8,7.67,7.58,10,83.83,0.02,1499.9208
+Arabica,Thailand,,7.5,7.58,7.58,7.75,7.83,10,83.83,0.01,NA
+Arabica,Ethiopia,,7.58,7.58,8,7.83,7.5,10,83.83,0.1,NA
+Arabica,Kenya,SL28,7.75,7.5,7.58,7.75,7.75,10,83.75,0.11,1800
+Arabica,Brazil,Bourbon,7.67,7.58,7.75,7.67,7.67,10,83.75,0.11,890
+Arabica,Colombia,Caturra,7.83,7.58,7.58,7.58,7.58,10,83.75,0.11,442
+Arabica,Taiwan,Typica,7.67,7.58,7.58,7.67,7.83,10,83.75,0,750
+Arabica,Colombia,,7.92,7.5,7.67,7.75,7.5,10,83.75,0,NA
+Arabica,China,Catimor,7.83,7.67,7.5,7.58,7.67,10,83.75,0.1,1650
+Arabica,Colombia,Caturra,7.75,7.5,7.67,7.58,7.83,10,83.75,0,442
+Arabica,Uganda,Bourbon,8,7.58,7.75,7.33,7.5,10,83.75,0.12,1400
+Arabica,United States (Puerto Rico),Other,7.83,7.83,7.67,8,8.17,10,83.75,0.12,853.44
+Arabica,Colombia,Caturra,7.67,7.67,7.92,7.5,7.67,10,83.75,0,1775
+Arabica,Colombia,Other,7.67,7.42,7.42,8,8.33,10,83.75,0,1550
+Arabica,Colombia,Caturra,7.58,7.75,7.67,7.67,7.67,10,83.75,0,1750
+Arabica,Colombia,Caturra,7.75,7.75,7.58,7.42,8,10,83.75,0.11,1750
+Arabica,United States (Hawaii),Hawaiian Kona,7.25,7.67,7.58,7.83,8.25,10,83.75,0,NA
+Arabica,Mexico,Caturra,7.83,7.58,7.5,7.75,7.67,10,83.75,0.13,700
+Arabica,Guatemala,Caturra,7.67,7.58,7.67,7.75,7.75,10,83.75,0.11,1300
+Arabica,Colombia,,7.83,7.58,7.33,7.42,7.67,10,83.75,0.1,1600
+Arabica,Colombia,,7.75,7.25,7.25,7.58,8.5,10,83.75,0.06,1600
+Arabica,United States (Hawaii),,7.83,7.75,7.67,7.58,7.5,10,83.75,0,NA
+Arabica,Brazil,Bourbon,7.67,7.5,7.67,7.67,7.5,10,83.67,0.11,890
+Arabica,Kenya,SL28,8.08,7.67,7.58,7.25,7.67,10,83.67,0.11,1700
+Arabica,Honduras,Caturra,7.5,7.67,7.67,8,8,10,83.67,0.1,1400
+Arabica,Nicaragua,Caturra,7.67,7.67,7.67,7.83,7.58,10,83.67,0.1,1250
+Arabica,Brazil,Bourbon,7.58,7.58,7.75,7.58,7.58,10,83.67,0.11,934
+Arabica,Taiwan,Caturra,7.5,7.33,7.92,7.83,7.67,10,83.67,0.1,1200
+Arabica,Costa Rica,,7.33,7.67,7.5,7.67,7.5,10,83.67,0.11,1350
+Arabica,Thailand,,7.5,7.58,7.83,7.67,7.58,10,83.67,0.12,800
+Arabica,Colombia,Caturra,7.5,7.5,7.75,7.67,7.67,10,83.67,0.11,1625
+Arabica,Guatemala,Bourbon,8,7.33,8,8,8,10,83.67,0.1,1356.6648
+Arabica,Colombia,Caturra,7.83,7.67,7.58,7.58,7.67,10,83.67,0,1750
+Arabica,Colombia,Caturra,7.67,7.67,7.67,7.33,7.75,10,83.67,0,1900
+Arabica,Guatemala,Bourbon,7.67,7.42,7.67,8,7.75,10,83.67,0.12,1310.64
+Arabica,Guatemala,Bourbon,7.83,7.33,7.67,7.67,7.83,10,83.67,0.11,1310.64
+Arabica,Colombia,Caturra,7.75,7.58,7.83,7.17,7.75,10,83.67,0.11,1750
+Arabica,Guatemala,Caturra,8.17,7.83,7.67,8.08,7.75,9.33,83.67,0.11,1450
+Arabica,Guatemala,Bourbon,7.67,7.5,7.42,7.58,7.83,10,83.67,0.11,1310.64
+Arabica,Mexico,Typica,7.67,7.5,7.33,7.83,8.25,10,83.67,0.12,1100
+Arabica,Indonesia,Typica,8.17,7.58,7.58,7.42,7.67,10,83.67,0.12,1400
+Arabica,Guatemala,Caturra,7.67,7.33,8,7.67,7.67,10,83.67,0.1,1524
+Arabica,United States (Hawaii),,7.75,7.92,8.08,7.75,8,9.33,83.67,0,NA
+Arabica,Brazil,Bourbon,7.58,7.58,7.58,7.67,7.58,10,83.58,0.11,890
+Arabica,Guatemala,Caturra,7.75,7.5,7.83,7.58,7.58,10,83.58,0.11,1128.3696
+Arabica,Colombia,Caturra,7.75,7.58,7.58,7.67,7.58,10,83.58,0.11,NA
+Arabica,China,Catimor,7.67,7.58,7.58,7.67,7.75,10,83.58,0.1,1100
+Arabica,Colombia,Caturra,7.67,7.58,7.67,7.75,7.58,10,83.58,0.12,1775
+Arabica,Mexico,Caturra,7.75,7.58,7.58,7.5,7.67,10,83.58,0.12,1200
+Arabica,Ethiopia,Other,7.75,7.58,7.67,7.5,7.67,10,83.58,0,1850
+Arabica,Uganda,SL14,7.67,7.42,7.75,7.75,7.67,10,83.58,0.12,1800
+Arabica,Colombia,Caturra,7.67,7.67,7.67,7.67,7.67,10,83.58,0,1600
+Arabica,Colombia,Caturra,7.67,7.67,7.58,7.67,7.75,10,83.58,0.12,1550
+Arabica,Colombia,Caturra,7.75,7.5,7.58,7.75,7.83,10,83.58,0,1550
+Arabica,Taiwan,Typica,7.75,7.75,7.75,7.5,7.58,10,83.58,0.11,1000
+Arabica,Colombia,Caturra,7.67,7.58,7.67,7.75,7.58,10,83.58,0.11,1775
+Arabica,Mexico,Typica,7.83,7.58,7.58,7.67,7.58,10,83.58,0.12,1000
+Arabica,Colombia,Caturra,7.67,7.58,7.58,7.67,7.75,10,83.58,0.11,2136
+Arabica,Brazil,Catuai,7.83,7.5,7.75,7.5,7.58,10,83.58,0.12,1100
+Arabica,Colombia,Caturra,7.75,7.58,7.75,7.75,7.5,10,83.5,0,1799
+Arabica,Taiwan,,7.58,7.17,7.17,7,7,10,83.5,0.11,NA
+Arabica,Costa Rica,Caturra,7.92,7.5,7.67,7.5,7.67,10,83.5,0,1850
+Arabica,Colombia,Caturra,7.75,7.58,7.5,7.75,7.75,10,83.5,0,1000
+Arabica,Guatemala,Bourbon,7.67,7.5,7.83,7.58,7.58,10,83.5,0.1,1219.2
+Arabica,Colombia,Caturra,7.58,7.58,7.58,7.75,7.67,10,83.5,0.12,1775
+Arabica,"Tanzania, United Republic Of",Ruiru 11,7.75,7.58,7.67,7.67,7.58,10,83.5,0.13,1400
+Arabica,Indonesia,Sumatra,7.25,7.58,7.92,7.83,7.58,10,83.5,0.13,1500
+Arabica,Ethiopia,,7.67,7.5,7.58,7.75,7.67,10,83.5,0.1,1600
+Arabica,Colombia,,7.67,7.67,7.83,7.58,7.67,10,83.5,0,NA
+Arabica,Colombia,Caturra,8,7.25,7.58,7.92,7.58,10,83.5,0.11,1850
+Arabica,Guatemala,Caturra,7.58,7.5,7.83,7.42,7.67,10,83.5,0.1,1400
+Arabica,Colombia,Caturra,7.75,7.33,7.5,7.83,7.83,10,83.5,0,1650
+Arabica,Honduras,Caturra,7.67,7.67,7.5,7.67,7.67,10,83.5,0.1,1350
+Arabica,Colombia,Caturra,7.58,7.42,7.67,7.75,7.67,10,83.5,0,1750
+Arabica,Colombia,Caturra,7.58,7.58,7.75,7.58,7.75,10,83.5,0.11,1750
+Arabica,Mexico,Bourbon,7.83,7.25,7.5,7.5,7.42,10,83.5,0.13,1170
+Arabica,Mexico,Typica,7.67,7.67,7.75,7.58,7.5,10,83.5,0.11,940
+Arabica,Mexico,Pacamara,7.75,7.67,7.75,7.33,7.5,10,83.5,0.12,1400
+Arabica,Guatemala,Caturra,7.83,7.5,8,7.67,7.5,10,83.5,0.1,1524
+Arabica,Colombia,Caturra,7.67,7.58,7.67,7.67,7.67,10,83.5,0.11,1775
+Arabica,Guatemala,Bourbon,7.5,7.75,7.5,8,7.67,10,83.5,0,1402.08
+Arabica,United States (Hawaii),,7.5,7.58,7.92,7.58,7.67,10,83.5,0.01,NA
+Arabica,Indonesia,,7.83,7.58,7.58,7.75,7.58,10,83.5,0,1600
+Arabica,Colombia,Caturra,7.5,7.58,7.5,7.75,7.83,10,83.42,0,439
+Arabica,Guatemala,Bourbon,7.67,7.5,7.58,7.58,7.67,10,83.42,0.1,1700
+Arabica,Colombia,Caturra,7.67,7.5,7.67,7.67,7.58,10,83.42,0.11,442
+Arabica,Costa Rica,Caturra,7.58,7.42,7.92,7.5,7.67,10,83.42,0.09,1850
+Arabica,Taiwan,,7.67,7,7.08,7,7,10,83.42,0.11,NA
+Arabica,Uganda,SL14,7.58,7.33,7.75,7.67,7.58,10,83.42,0.11,1800
+Arabica,Thailand,Catimor,7.5,7.75,7.5,7.75,7.67,10,83.42,0.13,1200
+Arabica,El Salvador,Bourbon,7.58,7.75,7.58,7.75,7.67,10,83.42,0.11,1330
+Arabica,Colombia,Caturra,7.58,7.58,7.67,7.58,7.67,10,83.42,0.12,442
+Arabica,Brazil,Yellow Bourbon,7.33,7.75,7.5,7.42,7.83,10,83.42,0.12,NA
+Arabica,"Tanzania, United Republic Of",Bourbon,7.75,7.58,7.67,7.58,7.58,10,83.42,0.13,1600
+Arabica,Colombia,Caturra,7.58,7.25,7.75,7.75,8.58,10,83.42,0.12,1813
+Arabica,Guatemala,Bourbon,7.75,7.33,7.83,7.5,7.67,10,83.42,0.1,1219.2
+Arabica,Guatemala,Caturra,7.67,7.5,7.83,7.58,7.5,10,83.42,0.1,1500
+Arabica,Guatemala,Bourbon,7.67,7.75,7.42,7.75,7.75,10,83.42,0.11,1310.64
+Arabica,United States (Hawaii),Hawaiian Kona,7.42,7.67,7.58,7.67,7.67,10,83.42,0,NA
+Arabica,Colombia,Caturra,7.5,7.58,7.5,7.67,7.75,10,83.42,0.11,1450
+Arabica,Colombia,,7.58,7.58,7.67,7.75,7.67,10,83.42,0.1,NA
+Arabica,United States (Hawaii),,7.5,7.42,7.67,7.83,7.58,10,83.42,0.01,NA
+Arabica,Thailand,Peaberry,7.58,7.5,7.92,7.92,7.42,10,83.42,0.11,NA
+Arabica,Mexico,,7.25,7.38,7.63,7.5,8.75,10,83.38,0.09,1050
+Arabica,Colombia,Caturra,7.75,7.75,7.58,7.58,7.58,10,83.33,0,1650
+Arabica,Colombia,Caturra,7.67,7.58,7.42,7.67,7.75,10,83.33,0,NA
+Arabica,Colombia,Caturra,7.83,7.58,7.58,7.5,7.58,10,83.33,0,NA
+Arabica,Brazil,Catuai,7.5,7.33,7.58,7.58,7.92,10,83.33,0.1,1227
+Arabica,Mexico,Caturra,7.75,7.5,7.67,7.5,7.58,10,83.33,0.12,1200
+Arabica,Colombia,Caturra,7.67,7.42,7.83,7.83,7.42,10,83.33,0.11,1650
+Arabica,"Tanzania, United Republic Of",Other,7.75,7.67,7.58,7.58,7.58,10,83.33,0.12,1700
+Arabica,Mexico,Other,7.67,7.58,7.67,7.5,7.58,10,83.33,0.12,1100
+Arabica,Costa Rica,Caturra,7.67,7.42,7.67,7.67,7.67,10,83.33,0.12,1300
+Arabica,United States (Hawaii),Hawaiian Kona,7.83,7.83,7.67,7.92,8,9.33,83.33,0.11,NA
+Arabica,Costa Rica,Catuai,7.5,7.67,7.5,7.83,7.17,10,83.33,0.11,1200
+Arabica,Peru,,7.83,7.58,7.83,7.92,7.58,10,83.33,0.12,NA
+Arabica,Haiti,Typica,7.58,7.67,7.5,7.83,7.42,10,83.33,0.11,1280.16
+Arabica,Colombia,Caturra,7.67,7.5,7.67,7.92,7.42,10,83.33,0.11,1000
+Arabica,Guatemala,Bourbon,7.83,7.17,7.67,7.67,7.67,10,83.33,0.11,1310.64
+Arabica,United States (Hawaii),Hawaiian Kona,7.92,7.58,7.83,7.67,7.67,10,83.33,0.1,NA
+Arabica,Burundi,Bourbon,7.75,7.33,7.5,7.5,7.75,10,83.33,0,1880
+Arabica,Colombia,Caturra,7.5,7.67,7.58,7.67,7.58,10,83.33,0,1750
+Arabica,United States (Hawaii),,8.08,7.83,7.75,7.67,7.58,9.33,83.33,0.01,NA
+Arabica,United States (Hawaii),,7.58,7.58,7.5,7.83,7.67,10,83.33,0,NA
+Arabica,Mexico,Typica,7.67,7.42,7.83,7.33,7.5,10,83.25,0.11,1600
+Arabica,Costa Rica,Catuai,7.5,7.83,7.5,7.67,7.67,10,83.25,0.11,1900
+Arabica,Costa Rica,,7.83,7.42,7.67,7.5,7.67,10,83.25,0.11,NA
+Arabica,Guatemala,Pacas,7.5,7.42,7.83,7.67,7.58,10,83.25,0.11,2100
+Arabica,Uganda,SL14,7.5,7.67,7.42,7.67,7.67,10,83.25,0.12,NA
+Arabica,Brazil,,7.58,7.42,7.5,7.67,7.42,10,83.25,0.12,NA
+Arabica,Colombia,Caturra,7.58,7.67,7.17,7.75,7.83,10,83.25,0,442
+Arabica,Mexico,Typica,7.83,7.5,7.58,7.58,7.58,10,83.25,0.12,1261
+Arabica,Taiwan,Bourbon,7.67,7.5,7.5,7.67,7.83,10,83.25,0.1,1000
+Arabica,Taiwan,Typica,7.92,7.75,7.58,7.5,7.33,10,83.25,0.1,800
+Arabica,Colombia,Caturra,7.58,7.5,7.58,7.58,7.75,10,83.25,0,1483
+Arabica,Guatemala,Caturra,7.5,7.58,7.67,7.67,7.5,10,83.25,0.1,1500
+Arabica,Colombia,Caturra,7.83,7.67,7.33,7.67,7.67,10,83.25,0.11,1750
+Arabica,Mexico,Bourbon,7.58,7.5,7.5,7.58,7.58,10,83.25,0.12,1300
+Arabica,United States (Hawaii),Hawaiian Kona,7.58,7.83,8,8.08,7.67,9.33,83.25,0.11,NA
+Arabica,Mexico,Mundo Novo,7.75,7.58,7.58,7.5,7.58,10,83.25,0.13,NA
+Arabica,Mexico,Caturra,7.75,7.42,7.92,7.33,7.5,10,83.25,0.12,1000
+Arabica,Guatemala,Bourbon,7.83,7.08,7.83,7.42,8.08,10,83.25,0.11,1310.64
+Arabica,Brazil,Yellow Bourbon,7.75,7.5,7.58,7.58,7.58,10,83.25,0.11,1200
+Arabica,Colombia,Caturra,7.67,7.58,7.42,7.83,7.58,10,83.25,0.12,175
+Arabica,Colombia,Caturra,7.67,7.5,7.5,7.58,7.67,10,83.25,0.11,1775
+Arabica,Colombia,,7.92,7.25,7.42,7.83,7.58,10,83.25,0.08,1700
+Arabica,Colombia,,8,7.67,7.25,7.67,7.5,10,83.25,0.13,1880
+Arabica,Colombia,,7.92,7.5,7.42,7.42,7.67,10,83.25,0.04,1800
+Arabica,Brazil,Bourbon,7.67,7.5,7.58,7.67,7.58,10,83.17,0.11,890
+Arabica,Guatemala,Bourbon,7.58,7.33,7.67,7.75,7.58,10,83.17,0.1,1901
+Arabica,"Tanzania, United Republic Of",Bourbon,7.67,7.42,7.67,7.67,7.58,10,83.17,0.12,168
+Arabica,Peru,,7.92,7.5,7.58,7.67,7.5,10,83.17,0.11,NA
+Arabica,Vietnam,Catimor,7.58,7.08,7.33,7.58,8.58,10,83.17,0.07,1550
+Arabica,Guatemala,Caturra,7.67,7.42,7.75,7.58,7.5,10,83.17,0.11,1500
+Arabica,Honduras,Catuai,7.67,7.5,7.67,7.5,7.67,10,83.17,0.11,1450
+Arabica,China,Catimor,7.5,7.33,7.67,7.67,7.67,10,83.17,0.11,1200
+Arabica,China,Catimor,7.67,7.5,7.67,7.42,7.58,10,83.17,0.1,1600
+Arabica,El Salvador,Bourbon,7.5,7.33,7.67,8,7.67,10,83.17,0,1350
+Arabica,Guatemala,Bourbon,7.5,7.5,7.83,7.58,7.5,10,83.17,0.11,1500
+Arabica,Guatemala,Bourbon,7.92,7.42,7.75,7.5,7.5,10,83.17,0.12,1650
+Arabica,Kenya,SL28,7.83,7.67,7.75,7.83,8.5,9.33,83.17,0.1,250.5
+Arabica,Thailand,,7.67,7.58,7.75,7.42,7.67,10,83.17,0.12,800
+Arabica,"Tanzania, United Republic Of",Other,7.58,7.67,7.58,7.42,7.58,10,83.17,0.13,1653
+Arabica,Colombia,Caturra,7.58,7.5,7.67,7.5,7.67,10,83.17,0,1775
+Arabica,Uganda,SL14,8,7.5,7.42,7.33,7.58,10,83.17,0.1,1800
+Arabica,Colombia,,7.58,7.5,7.58,7.58,7.58,10,83.17,0.11,NA
+Arabica,Honduras,Catuai,7.5,7.5,7.67,7.67,7.67,10,83.17,0.1,1450
+Arabica,Honduras,Caturra,7.67,7.5,7.67,7.5,7.67,10,83.17,0.11,1350
+Arabica,Guatemala,Catuai,7.33,7.17,8.17,7.33,7.67,10,83.17,0.09,1524
+Arabica,United States (Hawaii),Hawaiian Kona,7.5,7.58,7.42,7.92,7.67,10,83.17,0.11,NA
+Arabica,"Tanzania, United Republic Of",Bourbon,7.58,7.58,7.75,7.58,7.58,10,83.17,0.12,1800
+Arabica,Guatemala,Bourbon,7.67,7.33,7.67,7.5,7.67,10,83.17,0.11,1310.64
+Arabica,Mexico,Typica,7.75,7.58,7.58,7.5,7.42,10,83.17,0.11,1500
+Arabica,Mexico,Typica,7.75,7.58,7.5,7.42,7.58,10,83.17,0.12,532
+Arabica,Mexico,Pacamara,7.58,7.42,7.67,7.5,7.58,10,83.17,0.14,1089
+Arabica,Colombia,Caturra,7.67,7.5,7.5,7.58,8.17,10,83.17,0.11,1775
+Arabica,Mexico,Typica,7.75,7.42,7.75,7.58,7.58,10,83.17,0.13,700
+Arabica,Colombia,Caturra,7.58,7.5,7.58,7.67,7.67,10,83.17,0.11,1750
+Arabica,Mexico,Typica,7.5,7.58,7.58,7.67,7.5,10,83.17,0.11,1380
+Arabica,Brazil,Mundo Novo,7.75,7.58,7.5,7.58,7.58,10,83.17,0.12,1000
+Arabica,Brazil,Mundo Novo,7.92,7.5,7.58,7.42,7.5,10,83.17,0.11,950
+Arabica,Guatemala,Bourbon,7.75,7.67,7.5,7.92,8,9.33,83.17,0,1402.08
+Arabica,Brazil,Mundo Novo,7.75,7.58,7.5,7.75,7.5,10,83.17,0.12,1000
+Arabica,Brazil,,7.58,7.67,7.5,7.67,7.58,10,83.17,0.02,900
+Arabica,El Salvador,,7.42,8.17,8.08,7.17,7.58,10,83.17,0.14,1200
+Arabica,Ethiopia,,7.75,7.67,8.08,7.83,7.92,9.33,83.17,0.01,1850
+Arabica,Colombia,Caturra,7.58,7.33,7.67,7.75,7.58,10,83.08,0,1799
+Arabica,Colombia,Caturra,7.75,7.5,7.42,8,7.75,10,83.08,0,NA
+Arabica,Brazil,Yellow Bourbon,7.58,7.58,7.5,7.67,7.58,10,83.08,0.11,905
+Arabica,Brazil,Yellow Bourbon,7.33,7.67,7.33,7.75,7.42,10,83.08,0,1
+Arabica,Taiwan,Typica,7.83,7.5,7.83,7.67,7.25,10,83.08,0,750
+Arabica,Brazil,Mundo Novo,7.42,7.58,7.5,7.75,7.67,10,83.08,0.11,NA
+Arabica,Brazil,Bourbon,7.58,7.67,7.42,7.42,7.5,10,83.08,0,1200
+Arabica,Costa Rica,Catuai,7.83,7.5,7.67,7.58,7.67,10,83.08,0.1,1300
+Arabica,United States (Hawaii),Hawaiian Kona,7.33,7.58,7.33,7.83,7.67,10,83.08,0.12,NA
+Arabica,Taiwan,Typica,7.75,7.5,7.5,7.5,7.5,10,83.08,0.11,1300
+Arabica,United States (Hawaii),Hawaiian Kona,7.83,7.33,7.17,7.75,7.67,10,83.08,0.1,NA
+Arabica,Mexico,Other,7.75,7.42,7.75,7.5,7.5,10,83.08,0.1,1400
+Arabica,United States (Hawaii),Hawaiian Kona,7.67,7.5,7.67,7.92,8,10,83.08,0,NA
+Arabica,United States (Hawaii),Hawaiian Kona,7.33,7.58,7.92,7.67,7.58,10,83.08,0.12,NA
+Arabica,Colombia,Caturra,7.33,7.33,7.58,7.25,8.08,10,83.08,0.01,1775
+Arabica,Colombia,,7.83,7.33,7.25,7.42,7.92,10,83.08,0.08,1880
+Arabica,Indonesia,,7.67,7.5,7.58,7.67,7.58,10,83.08,0,1350
+Arabica,Guatemala,,7.92,7.67,7.25,7.83,7.67,10,83.08,0.02,NA
+Arabica,Brazil,Bourbon,7.58,7.5,7.75,7.67,7.5,10,83,0,890
+Arabica,Brazil,Bourbon,7.5,7.58,7.67,7.58,7.5,10,83,0.11,894
+Arabica,Brazil,Bourbon,7.5,7.58,7.67,7.58,7.42,10,83,0.11,872
+Arabica,Uganda,Bourbon,7.67,7.42,7.42,7.83,7.5,10,83,0.12,1473
+Arabica,Uganda,Bourbon,7.67,7.5,7.58,7.42,7.5,10,83,0.12,1645
+Arabica,Colombia,,7.67,7.33,7.67,7.5,7.58,10,83,0.11,442
+Arabica,Vietnam,Caturra,7.75,7.58,7.58,7.42,7.67,10,83,0,1550
+Arabica,Guatemala,Catuai,7.67,7.33,7.92,7.42,7.5,10,83,0.11,1550
+Arabica,Guatemala,Catuai,7.75,7.33,7.75,7.5,7.42,10,83,0.11,1371.6
+Arabica,Guatemala,Bourbon,7.83,7.25,7.67,7.75,7.5,10,83,0.11,1500
+Arabica,Brazil,Catuai,7.67,7.67,7.5,7.42,7.5,10,83,0,1000
+Arabica,Taiwan,Typica,7.92,7.83,7.58,7.33,7.25,10,83,0.08,1200
+Arabica,Uganda,SL14,7.83,7.5,7.5,7.58,7.5,10,83,0.12,1800
+Arabica,United States (Puerto Rico),Other,7.67,7.67,7.83,7.75,7.83,9.33,83,0,853.44
+Arabica,Guatemala,Bourbon,7.67,7.42,7.83,7.5,7.5,10,83,0.1,1500
+Arabica,Costa Rica,Catuai,7.67,7.5,7.58,7.5,7.5,10,83,0.11,1200
+Arabica,Brazil,Yellow Bourbon,7.75,7.42,7.67,7.42,7.67,10,83,0.12,1250
+Arabica,Colombia,Caturra,7.75,7.33,7.5,7.58,7.17,10,83,0.11,1775
+Arabica,Colombia,Caturra,7.83,7.58,7.33,7.5,7.67,10,83,0,1750
+Arabica,Colombia,Caturra,7.33,7.75,7.42,7.75,7.58,10,83,0.11,1000
+Arabica,Colombia,Caturra,7.58,7.42,7.67,7.58,7.42,10,83,0,1000
+Arabica,Colombia,Caturra,7.5,7.42,7.58,7.75,7.58,10,83,0.11,1775
+Arabica,Mexico,Typica,7.67,7.42,7.5,7.67,7.58,10,83,0.11,750
+Arabica,Mexico,Typica,7.67,7.5,7.58,7.58,7.67,10,83,0.11,1200
+Arabica,Mexico,Bourbon,7.5,7.5,7.5,7.58,7.58,10,83,0.11,1200
+Arabica,Colombia,Arusha,7.67,7.5,7.5,7.75,7.5,10,83,0,NA
+Arabica,Colombia,Caturra,7.75,7.5,7.67,7.83,7.75,10,83,0,1625
+Arabica,Colombia,Caturra,7.67,7.58,7.58,7.67,7.42,10,83,0.11,1750
+Arabica,Guatemala,Bourbon,7.5,7.5,7.67,7.5,7.83,10,83,0.1,1371.6
+Arabica,Colombia,Caturra,7.67,7.58,7.5,7.67,7.42,10,83,0.12,1775
+Arabica,Thailand,,7.33,7.58,7.5,7.75,7.67,10,83,0.28,NA
+Arabica,Colombia,,7.33,7.58,7.33,7.58,7.92,10,83,0.08,1450
+Arabica,United States (Hawaii),,7.83,7.67,7.83,7.92,7.83,9.33,83,0,NA
+Arabica,United States (Hawaii),,7.5,7.42,7.58,7.58,7.67,10,83,0,NA
+Arabica,Colombia,,7.5,7.67,7.67,7.58,7.58,10,83,0.06,1800
+Arabica,Nicaragua,Caturra,7.58,7.75,7.92,7.92,8.08,9.33,83,0.07,NA
+Arabica,Thailand,,7.5,7.42,7.75,8.17,7.5,10,83,0,NA
+Arabica,Brazil,Bourbon,7.67,7.5,7.58,7.58,7.5,10,82.92,0,890
+Arabica,El Salvador,Bourbon,7.5,7.75,7.58,7.92,7.83,9.33,82.92,0,1350
+Arabica,Colombia,Caturra,7.58,7.5,7.33,7.67,7.58,10,82.92,0.11,1500
+Arabica,Taiwan,Caturra,7.17,7.25,7.67,7.67,7.58,10,82.92,0.09,350
+Arabica,Ethiopia,Ethiopian Heirlooms,7.58,7.5,7.5,7.58,7.58,10,82.92,0,2000
+Arabica,Taiwan,Typica,7.5,7.67,7.33,7.5,7.75,10,82.92,0,775
+Arabica,Philippines,Other,7.58,7.67,7.58,7.5,7.5,10,82.92,0.11,1200
+Arabica,Philippines,Other,8.08,7.67,7.42,7.33,7.5,10,82.92,0,1600
+Arabica,Mexico,Typica,7.83,7.25,7.58,7.5,7.5,10,82.92,0.13,1059
+Arabica,Mexico,Bourbon,7.75,7.42,7.42,7.75,7.5,10,82.92,0.12,1300
+Arabica,Brazil,Moka Peaberry,7.08,7.5,7.83,7.75,7.67,10,82.92,0.11,11000
+Arabica,Uganda,SL14,8,7.5,7.58,7.33,7.42,10,82.92,0.12,1650
+Arabica,Uganda,SL14,7.75,7.58,7.5,7.5,7.5,10,82.92,0.12,1400
+Arabica,Guatemala,Bourbon,7.75,7.42,7.58,7.67,7.5,10,82.92,0.1,1500
+Arabica,Guatemala,Caturra,7.67,7.42,7.5,7.33,7.5,10,82.92,0.1,1500
+Arabica,Guatemala,,7.58,7.25,7.58,7.58,7.58,10,82.92,0.1,NA
+Arabica,Colombia,Caturra,7.58,7.75,7.33,7.58,7.58,10,82.92,0.11,1900
+Arabica,Colombia,Caturra,7.75,7.25,7.5,7.75,7.5,10,82.92,0,1750
+Arabica,Guatemala,Bourbon,7.83,7.25,7.92,7.5,7.17,10,82.92,0.11,1706.88
+Arabica,Colombia,Other,7.83,7.42,7.42,7.5,7.58,10,82.92,0.11,1450
+Arabica,Mexico,Typica,7.58,7.33,7.25,7.58,7.75,10,82.92,0.1,1248
+Arabica,Vietnam,Other,7.67,7.17,7.58,8.08,7.42,10,82.92,0,1040
+Arabica,Mexico,Typica,8,7.67,7.17,7.67,7.42,10,82.92,0.14,1400
+Arabica,United States (Hawaii),Hawaiian Kona,7.5,7.5,7.42,7.67,7.83,10,82.92,0.1,NA
+Arabica,Colombia,,7.5,7.33,7.75,7.08,7.83,10,82.92,0.15,1450
+Arabica,Thailand,,7.42,7.5,7.17,7.5,8,10,82.92,0,NA
+Arabica,Kenya,SL28,7.75,7.42,7.58,7.5,7.5,10,82.83,0.1,1754
+Arabica,Guatemala,Bourbon,7.5,7.33,7.67,7.58,7.58,10,82.83,0.11,1700
+Arabica,Brazil,Yellow Bourbon,7.67,7.58,7.5,7.5,7.42,10,82.83,0.11,905
+Arabica,El Salvador,Pacas,7.33,7.67,7.83,7.33,7.67,10,82.83,0,1250
+Arabica,Rwanda,Bourbon,7.83,7.75,7.83,7.75,7.75,9.33,82.83,0.11,1900
+Arabica,Vietnam,Other,7.25,7.5,7.42,7.75,7.42,10,82.83,0.11,1040
+Arabica,Guatemala,Bourbon,7.58,7.33,7.67,7.67,7.5,10,82.83,0.11,1219.2
+Arabica,Brazil,Catuai,7.58,7.33,7.67,7.42,7.33,10,82.83,0.12,900
+Arabica,Colombia,Other,7.83,7.5,7.58,7.5,7.67,10,82.83,0,1600
+Arabica,United States,Other,7.42,7.25,7.5,7.75,7.75,10,82.83,0,1200
+Arabica,Guatemala,Bourbon,7.67,7.75,7.67,7.42,7.17,10,82.83,0.1,1500
+Arabica,Colombia,Typica,7.5,7.58,7.5,7.58,7.58,10,82.83,0,1800
+Arabica,Colombia,Caturra,7.83,7.5,7.42,7.5,7.5,10,82.83,0.11,1775
+Arabica,"Tanzania, United Republic Of",Arusha,7.67,7.33,7.25,7.58,7.75,10,82.83,0.11,1400
+Arabica,Mexico,Caturra,7.58,7.5,7.58,7.5,7.5,10,82.83,0.12,1550
+Arabica,Mexico,Bourbon,7.67,7.42,7.75,7.42,7.42,10,82.83,0.12,1250
+Arabica,Guatemala,Bourbon,7.67,7.33,7.5,7.33,7.92,10,82.83,0.11,1310.64
+Arabica,Mexico,Typica,7.58,7.5,7.42,7.67,7.58,10,82.83,0.11,1380
+Arabica,El Salvador,,7.75,7.75,7.75,7.25,7.5,10,82.83,0,1200
+Arabica,Guatemala,Caturra,7.5,7.42,7.67,7.58,7.5,10,82.75,0.1,1100
+Arabica,Guatemala,Caturra,7.58,7.5,7.58,7.5,7.42,10,82.75,0.11,1800
+Arabica,Guatemala,Bourbon,7.5,7.17,7.67,7.67,7.58,10,82.75,0.11,1700
+Arabica,Guatemala,Bourbon,7.5,7.42,7.58,7.67,7.5,10,82.75,0.1,1219.2
+Arabica,Guatemala,Bourbon,7.42,7.42,7.67,7.5,7.5,10,82.75,0.1,1219.2
+Arabica,Indonesia,Sulawesi,7.5,7.42,7.58,7.58,7.5,10,82.75,0.12,1500
+Arabica,Guatemala,Bourbon,7.58,7.33,7.58,7.33,7.67,10,82.75,0.12,157.8864
+Arabica,Taiwan,Yellow Bourbon,7.83,7.33,7.67,7.58,7.67,10,82.75,0,650
+Arabica,El Salvador,Bourbon,7.67,7.17,7.33,7.58,7.67,10,82.75,0,1250
+Arabica,Costa Rica,Caturra,7.58,7.42,7.67,7.42,7.5,10,82.75,0.09,1850
+Arabica,Honduras,Caturra,7.58,7.42,7.58,7.5,7.5,10,82.75,0.09,1400
+Arabica,Brazil,Yellow Bourbon,7.5,7.58,7.5,7.58,7.58,10,82.75,0.11,905
+Arabica,China,Catimor,7.67,7.33,7.33,7.67,7.67,10,82.75,0.1,1100
+Arabica,China,Catimor,7.5,7.42,7.67,7.5,7.5,10,82.75,0.11,1500
+Arabica,Colombia,Caturra,7.5,7.58,7.75,7.33,7.5,10,82.75,0,1775
+Arabica,Malawi,Gesha,7.75,7.42,7.5,7.33,7.5,10,82.75,0.12,1442
+Arabica,Guatemala,Pacas,7.75,7.25,7.75,7.5,7.67,10,82.75,0.13,1524
+Arabica,Colombia,Typica,7.67,7.42,7.58,7.33,7.67,10,82.75,0.12,165
+Arabica,United States (Hawaii),Hawaiian Kona,7.67,7.42,7.83,7.33,7.5,10,82.75,0.1,NA
+Arabica,United States (Hawaii),Hawaiian Kona,7.58,7.75,7.75,7.42,8,10,82.75,0.1,NA
+Arabica,Colombia,Caturra,7.58,7.17,7.33,7.25,8.58,10,82.75,0.1,1300
+Arabica,Mexico,Typica,7.58,7.5,7.5,7.5,7.5,10,82.75,0.12,1550
+Arabica,Mexico,Typica,7.58,7.33,7.75,7.25,7.58,10,82.75,0.12,1200
+Arabica,Mexico,Typica,8.08,8,8,7.83,7.92,10,82.75,0.12,1200
+Arabica,Colombia,Caturra,7.5,7.42,7.67,7.5,7.58,10,82.75,0,1625
+Arabica,Colombia,Caturra,7.67,7.58,7.58,7.5,7.42,10,82.75,0.11,1775
+Arabica,United States (Hawaii),Hawaiian Kona,7.25,7.5,7.83,7.67,7.67,10,82.75,0.12,NA
+Arabica,Panama,Catuai,7.42,7.5,7.58,7.5,7.75,10,82.75,0,1100
+Arabica,United States (Hawaii),,7.75,7.5,7.83,7.17,7.42,10,82.75,0,NA
+Arabica,Brazil,Bourbon,7.5,7.25,7.75,7.58,7.5,10,82.67,0,890
+Arabica,Brazil,Bourbon,7.5,7.5,7.67,7.5,7.42,10,82.67,0.11,934
+Arabica,Laos,Catimor,7.67,7.42,7.42,7.42,7.5,10,82.67,0.13,1300
+Arabica,El Salvador,Pacas,7.67,7.67,7.67,7.5,7.67,9.33,82.67,0,1200
+Arabica,Mexico,,7.5,7.42,7.75,7.42,7.17,10,82.67,0.11,1300
+Arabica,Colombia,,7.75,7.33,7.58,7.33,7.75,10,82.67,0,NA
+Arabica,Brazil,Yellow Bourbon,7.58,7.42,7.67,7.5,7.5,10,82.67,0,1
+Arabica,Brazil,Catuai,7.33,7.58,7.58,7.67,7.5,10,82.67,0.12,NA
+Arabica,"Tanzania, United Republic Of",Other,7.5,7.5,7.5,7.5,7.58,10,82.67,0.12,1700
+Arabica,"Tanzania, United Republic Of",Bourbon,7.58,7.5,7.58,7.33,7.58,10,82.67,0.12,1550
+Arabica,Taiwan,Typica,8,7.83,7.42,7.25,7.25,10,82.67,0.08,1200
+Arabica,Mexico,Typica,7.67,7.42,7.5,7.42,7.5,10,82.67,0.11,1296
+Arabica,Uganda,SL14,7.67,7.33,7.67,7.5,7.5,10,82.67,0.12,1650
+Arabica,Taiwan,Typica,7.67,7.5,7.5,7.5,7.5,10,82.67,0.11,1240
+Arabica,Thailand,Caturra,7.42,7.5,7.67,7.58,7.5,10,82.67,0.11,1500
+Arabica,Colombia,Caturra,7.75,7.67,7.25,7.58,7.42,10,82.67,0.11,1800
+Arabica,El Salvador,Other,7.92,7.5,6.75,7.92,7.58,9.33,82.67,0,NA
+Arabica,Guatemala,Caturra,7.67,7.17,7.67,7.5,7.5,10,82.67,0.11,1500
+Arabica,Thailand,Other,7.83,7.83,7.33,7.58,7.83,9.33,82.67,0.12,NA
+Arabica,Mexico,Other,7.58,7.42,7.58,7.42,7.5,10,82.67,0.11,1100
+Arabica,Mexico,Typica,7.5,7.58,7.58,7.42,7.42,10,82.67,0.12,950
+Arabica,Colombia,,7.33,7.42,7.42,7.67,7.67,10,82.67,0.11,3850
+Arabica,United States (Hawaii),,7.83,7.5,7.67,7.5,7.58,9.33,82.67,0.03,NA
+Arabica,Mexico,Blue Mountain,7.75,7.25,7.75,7.67,7.58,10,82.67,0,1400
+Arabica,Colombia,,8.08,7.67,7.33,7.33,7.17,10,82.67,0.08,1800
+Arabica,Colombia,,7.5,7.33,7.33,7.67,7.83,10,82.67,0.21,NA
+Arabica,Guatemala,Bourbon,7.5,7.42,7.75,7.5,7.5,10,82.58,0.1,1219.2
+Arabica,Taiwan,Typica,7.67,7.5,7.42,7.58,7.5,10,82.58,0.11,1050
+Arabica,Brazil,,7.5,7.42,7.5,7.75,7.33,10,82.58,0.11,NA
+Arabica,Taiwan,,7.25,7,7.08,7,7,10,82.58,0.11,200
+Arabica,Brazil,,7.42,7.5,7.33,7.25,7.67,10,82.58,0,NA
+Arabica,Indonesia,Typica,7.83,7.42,7.33,7.42,7.5,10,82.58,0.13,1250
+Arabica,Thailand,,7.75,7.42,7.67,7.42,7.5,10,82.58,0.12,800
+Arabica,Thailand,Caturra,7.42,7.58,7.42,7.58,7.5,10,82.58,0.12,1450
+Arabica,"Tanzania, United Republic Of",Other,7.75,7.33,7.5,7.58,7.5,10,82.58,0.12,1317
+Arabica,Uganda,SL14,7.83,7.42,7.58,7.42,7.42,10,82.58,0.12,1650
+Arabica,Costa Rica,Catuai,7.67,7.5,7.67,7,7.75,10,82.58,0.11,1300
+Arabica,Mexico,,7.58,7.42,7.75,7.67,7.67,10,82.58,0,NA
+Arabica,Guatemala,,7.5,7.42,7.58,7.42,7.58,10,82.58,0,NA
+Arabica,Colombia,Caturra,7.75,7.33,7.42,7.5,7.83,10,82.58,0.11,1750
+Arabica,Colombia,Caturra,7.75,7.75,7.25,7.33,7.58,10,82.58,0.11,1750
+Arabica,Colombia,Caturra,7.58,7.42,7.58,7.67,7.42,10,82.58,0.11,1750
+Arabica,Mexico,Typica,7.5,7.5,7.5,7.42,7.5,10,82.58,0.1,1250
+Arabica,Mexico,Typica,7.67,7.58,7.75,7.67,6.83,10,82.58,0.12,1150
+Arabica,Colombia,Caturra,7.33,7.58,7.42,7.67,7.5,10,82.58,0.11,1775
+Arabica,Brazil,Mundo Novo,7.58,7.33,7.75,7.5,7.5,10,82.58,0,975
+Arabica,Brazil,Bourbon,7.5,7.5,7.5,7.58,7.5,10,82.5,0.11,890
+Arabica,Indonesia,Other,7.83,7.25,7.5,7.42,7.33,10,82.5,0.11,1250
+Arabica,Honduras,Caturra,7.58,7.33,7.5,7.5,7.5,10,82.5,0.1,1400
+Arabica,Guatemala,Bourbon,7.5,7.33,7.5,7.67,7.5,10,82.5,0.1,1219.2
+Arabica,Thailand,,7.5,7.5,7.75,7.33,7.42,10,82.5,0.12,800
+Arabica,Thailand,Caturra,7.33,7.5,7.5,7.67,7.5,10,82.5,0.11,1450
+Arabica,"Tanzania, United Republic Of",Other,7.67,7.33,7.58,7.5,7.5,10,82.5,0.12,1600
+Arabica,"Tanzania, United Republic Of",Other,7.75,7.42,7.58,7.58,7.58,10,82.5,0.12,NA
+Arabica,Mexico,Other,7.42,7.5,7.67,7.25,7.5,10,82.5,0,1600
+Arabica,Brazil,Yellow Bourbon,7.42,7.67,7.33,7.42,7.67,10,82.5,0.11,1260
+Arabica,Guatemala,Bourbon,7.83,7.33,7.67,7.42,7.5,10,82.5,0.12,1310.64
+Arabica,Colombia,Caturra,7.5,7.42,7.42,7.58,7.58,10,82.5,0.11,1750
+Arabica,Guatemala,Bourbon,7.83,7.17,7.33,7.5,7.67,10,82.5,0.11,1310.64
+Arabica,Mexico,Typica,7.5,7.5,7.5,7.42,7.42,10,82.5,0.13,1679
+Arabica,Mexico,Typica,7.67,7.33,7.67,7.5,7.33,10,82.5,0.12,1100
+Arabica,Mexico,Typica,7.92,7.33,7.58,7.25,7.42,10,82.5,0.11,1650
+Arabica,Guatemala,Caturra,7.67,7.33,7.33,7.5,7.83,10,82.5,0.11,NA
+Arabica,Brazil,Bourbon,7.67,7.33,7.67,7.5,7.5,10,82.5,0,1250
+Arabica,Colombia,Caturra,7.67,7.33,7.5,7.25,7.67,10,82.5,0.11,1775
+Arabica,United States (Hawaii),Hawaiian Kona,7.33,7.33,7.75,7.42,7.67,10,82.5,0.12,NA
+Arabica,Guatemala,,7.75,7.67,7.67,7.58,7.58,10,82.5,0.01,1600
+Arabica,Honduras,Other,7.42,7.17,7.58,7.58,7.5,10,82.42,0.12,1500
+Arabica,Guatemala,Bourbon,7.58,7.33,7.75,7.33,7.5,10,82.42,0.1,1700
+Arabica,Guatemala,Bourbon,7.67,7.25,7.67,7.42,7.33,10,82.42,0.12,1700
+Arabica,Guatemala,Bourbon,7.58,7.25,7.67,7.5,7.5,10,82.42,0.12,157.8864
+Arabica,Guatemala,Caturra,7.5,7.08,7.75,7.67,7.5,10,82.42,0.11,NA
+Arabica,Colombia,Caturra,5.08,7.83,7.75,7.83,8.08,10,82.42,0.11,1600
+Arabica,China,Catimor,7.67,7.42,7.5,7.42,7.42,10,82.42,0.1,1600
+Arabica,Brazil,,7.42,7.33,7.5,7.25,7.42,10,82.42,0.11,NA
+Arabica,"Tanzania, United Republic Of",Ruiru 11,7.67,7.42,7.42,7.67,7.42,10,82.42,0.13,2285
+Arabica,Brazil,Yellow Bourbon,7.17,7.33,7.5,7.75,7.42,10,82.42,0,1
+Arabica,Guatemala,Caturra,7.5,7.5,7.67,7.42,7.5,10,82.42,0.1,1400
+Arabica,Mexico,Typica,7.42,7.42,7.58,7.42,7.5,10,82.42,0.11,1296
+Arabica,Brazil,Catuai,7.58,7.33,7.5,7.5,7.42,10,82.42,0.12,1000
+Arabica,Peru,,7.58,7.58,7.75,7.5,7.58,10,82.42,0,NA
+Arabica,Brazil,Yellow Bourbon,7.25,7.25,7.5,7.42,7.5,10,82.42,0,1260
+Arabica,Mexico,Bourbon,7.5,7.5,7.92,7.42,7.67,10,82.42,0.12,1170
+Arabica,Honduras,,7.25,7.42,7.17,7.75,7.5,10,82.42,0.09,NA
+Arabica,Colombia,Caturra,7.67,7.33,7.5,7.58,7.5,10,82.42,0.11,1775
+Arabica,Mexico,Typica,7.5,7.42,7.67,7.42,7.58,10,82.42,0.12,1560
+Arabica,Mexico,Typica,7.42,7.5,7.42,7.58,7.5,10,82.42,0.13,1400
+Arabica,Mexico,Typica,7.42,7.33,7.58,7.5,7.5,10,82.42,0.14,1300
+Arabica,Mexico,Caturra,7.75,7.25,7.58,7.58,7.33,10,82.42,0.13,1170
+Arabica,Mexico,Typica,7.5,7.33,7.5,7.5,7.5,10,82.42,0.11,1300
+Arabica,Mexico,Pacamara,7.58,7.17,7.5,7.5,7.5,10,82.42,0.14,1350
+Arabica,Mexico,Caturra,7.58,7.33,7.58,7.5,7.5,10,82.42,0.11,1150
+Arabica,Mexico,Bourbon,7.67,7.33,7.42,7.58,7.33,10,82.42,0.13,1250
+Arabica,Mexico,Typica,7.83,7.42,7.67,7.17,7.33,10,82.42,0.12,1450
+Arabica,Colombia,Caturra,7.67,7.25,7.42,7.5,7.67,10,82.42,0,442
+Arabica,Brazil,Arusha,7.75,7.42,7.42,7.5,7.42,10,82.42,0.11,NA
+Arabica,Colombia,Caturra,7.33,7.17,7.58,7.42,7.58,10,82.42,0,1750
+Arabica,Colombia,,7.58,7.42,7.25,7.58,7.83,10,82.42,0.02,1750
+Arabica,Honduras,Caturra,7.5,7.33,7.5,7.42,7.42,10,82.33,0.1,1396
+Arabica,Brazil,Catuai,7.33,7.5,7.33,7.5,7.5,10,82.33,0.11,982
+Arabica,Brazil,,7.42,7.42,7.5,7.5,7.58,10,82.33,0.11,NA
+Arabica,Brazil,Bourbon,7.5,7.42,7.5,7.42,7.5,10,82.33,0.11,934
+Arabica,Costa Rica,Caturra,7.75,7.25,7.25,7.42,7.67,10,82.33,0.1,1850
+Arabica,Costa Rica,Catuai,7.75,7.5,7.5,7.33,7.58,10,82.33,0,1550
+Arabica,China,Catimor,7.5,7.42,7.5,7.42,7.42,10,82.33,0.12,1580
+Arabica,Brazil,Bourbon,8.25,7.25,8.33,8.17,8.08,10,82.33,0.07,1268
+Arabica,Brazil,Mundo Novo,7.42,7.5,7.42,7.5,7.58,10,82.33,0.11,NA
+Arabica,Guatemala,Bourbon,7.5,7.17,7.83,7.5,7.5,10,82.33,0.1,1676.4
+Arabica,Malawi,Gesha,7.33,7.42,7.58,7.33,7.5,10,82.33,0.12,1450
+Arabica,Brazil,Bourbon,7.75,7.67,8.08,8.08,8,6.67,82.33,0.11,1100
+Arabica,Guatemala,Pacas,7.58,7.5,7.58,7.75,7.5,10,82.33,0.12,1524
+Arabica,Mexico,,7.33,7.42,7.5,7.5,7.5,10,82.33,0.11,NA
+Arabica,Colombia,Caturra,7.42,7.5,7.17,7.08,8.33,10,82.33,0.1,1300
+Arabica,Taiwan,Typica,7.5,7.5,7.5,7.5,7.5,10,82.33,0.11,200
+Arabica,Taiwan,Typica,7.5,7.5,7.5,7.5,7.5,10,82.33,0.11,600
+Arabica,Guatemala,Bourbon,7.5,7.58,7.5,7.5,7.58,10,82.33,0.12,1310.64
+Arabica,Colombia,Caturra,7.5,7.5,7.5,7.5,7.58,10,82.33,0,1750
+Arabica,Mexico,Typica,7.67,7.42,7.5,7.42,7.42,10,82.33,0.12,1300
+Arabica,Costa Rica,,7.92,7.25,7.75,7.92,7.58,10,82.33,0,NA
+Arabica,Guatemala,Bourbon,7.67,7.33,7.67,7.5,7.33,10,82.33,0.11,1752.6
+Arabica,Mexico,Typica,7.58,7.58,7.33,7,7.58,10,82.33,0.15,441
+Arabica,Mexico,Bourbon,7.67,7.5,7.58,7.5,7.5,10,82.33,0.13,1170
+Arabica,Guatemala,Bourbon,7.5,7.33,7.5,7.33,7.5,10,82.33,0.1,1310.64
+Arabica,Brazil,Mundo Novo,7.58,7.42,7.5,7.5,7.42,10,82.33,0.12,1100
+Arabica,Mexico,Typica,8,7.33,7.33,7.08,7.67,10,82.33,0.11,1300
+Arabica,Brazil,Mundo Novo,7.58,7.25,7.58,7.42,7.5,10,82.33,0.11,950
+Arabica,Colombia,Caturra,7.83,7.33,7.25,7.58,7.42,10,82.33,0,442
+Arabica,Brazil,Catuai,7.58,7.25,7.42,7.67,7.33,10,82.25,0.09,1100
+Arabica,Taiwan,,7,7,7.17,7,7,10,82.25,0.1,NA
+Arabica,Guatemala,Pacas,7.67,7.25,7.67,7.42,7.42,10,82.25,0.11,1450
+Arabica,Brazil,Yellow Bourbon,7.42,7.5,7.08,7.5,7.42,10,82.25,0,1
+Arabica,El Salvador,Bourbon,7.58,7.5,7.67,7.83,8.42,9.33,82.25,0.12,1500
+Arabica,Honduras,Catuai,7.58,7.42,7.58,7.42,7.42,10,82.25,0.11,1350
+Arabica,Malawi,Gesha,7.58,7.33,7.42,7.58,7.5,10,82.25,0.13,1180
+Arabica,Brazil,Bourbon,7.75,7.42,7.42,7.33,7.33,10,82.25,0.11,1100
+Arabica,Taiwan,Typica,7.5,7.5,7.5,7.5,7.5,10,82.25,0.11,650
+Arabica,Mexico,Mundo Novo,7.58,7.42,7.42,7.42,7.42,10,82.25,0.12,1338
+Arabica,United States (Hawaii),Hawaiian Kona,7.33,7.5,7.67,7.5,7.42,10,82.25,0,NA
+Arabica,Mexico,Bourbon,7.58,7.5,7.17,7.42,7.42,10,82.25,0.16,533
+Arabica,Guatemala,Bourbon,7.5,7.33,7.58,7.67,7.33,10,82.25,0.11,1390.8024
+Arabica,Mexico,Bourbon,7.5,7.42,7.67,7.33,7.42,10,82.25,0.13,1170
+Arabica,Mexico,Typica,7.67,7.33,7.5,7.42,7.42,10,82.25,0.12,1250
+Arabica,El Salvador,Other,7.75,7.33,7.5,7.5,7.5,10,82.25,0,NA
+Arabica,Mexico,Typica,7.33,7.42,7.67,7.33,7.5,10,82.25,0.11,1100
+Arabica,Mexico,Typica,7.42,7.42,7.58,7.42,7.5,10,82.25,0.1,900
+Arabica,Colombia,Caturra,7.5,7.67,7.33,7.58,7.33,10,82.25,0.12,1750
+Arabica,Colombia,Caturra,7.67,7.33,7.33,7.5,7.5,10,82.25,0.11,1775
+Arabica,Brazil,Arusha,7.67,7.42,7,7.5,7.58,10,82.25,0.12,NA
+Arabica,Colombia,,7.17,7.58,7.25,7.58,7.67,10,82.25,0.22,NA
+Arabica,Brazil,Bourbon,7.42,7.5,7.42,7.42,7.5,10,82.17,0.11,934
+Arabica,Honduras,Caturra,7.5,7.17,7.42,7.5,7.5,10,82.17,0.11,1500
+Arabica,Nicaragua,,7.5,7.33,7.42,7.5,7.42,10,82.17,0.1,1000
+Arabica,"Tanzania, United Republic Of",Bourbon,7.58,7.42,7.33,7.5,7.42,10,82.17,0.13,1650
+Arabica,"Tanzania, United Republic Of",Other,7.42,7.42,7.5,7.5,7.33,10,82.17,0.12,1600
+Arabica,Brazil,Yellow Bourbon,6.92,7.42,7.33,7.83,7.5,10,82.17,0,1
+Arabica,Thailand,,7.42,7.17,7.75,7.25,7.67,10,82.17,0.12,800
+Arabica,Honduras,Catuai,7.67,7.25,7.42,7.58,7.42,10,82.17,0.11,1350
+Arabica,Guatemala,Bourbon,7.42,7.5,7.5,7.42,7.5,10,82.17,0.09,1500
+Arabica,Brazil,Mundo Novo,7.58,7.42,7.25,7.5,7.42,10,82.17,0.12,NA
+Arabica,"Tanzania, United Republic Of",Other,7.75,7.42,7.58,7.33,7.42,10,82.17,0.12,1700
+Arabica,Mexico,Other,7.42,7.17,7.42,7.33,8.17,10,82.17,0.12,1100
+Arabica,Mexico,Other,7.5,7.33,7.42,7.5,7.42,10,82.17,0.1,1400
+Arabica,Taiwan,Typica,7.5,7.5,7.5,7.5,7.5,10,82.17,0.11,1200
+Arabica,Taiwan,Typica,7.67,7.5,7.17,7.17,7.58,10,82.17,0,800
+Arabica,Colombia,Caturra,7.33,7.25,7.58,7.75,7.5,10,82.17,0,1750
+Arabica,Mexico,Typica,7.5,7,7.5,7.33,7.5,10,82.17,0.15,1144
+Arabica,Guatemala,Caturra,7.25,7,7.75,8.17,7.75,9.33,82.17,0.12,1350
+Arabica,Mexico,Typica,7.5,7.25,7.5,7.5,7.33,10,82.17,0.12,1000
+Arabica,Mexico,Typica,7,7.5,7.5,7.42,7.5,10,82.17,0.1,1200
+Arabica,Colombia,,7.58,7.42,7.17,7.17,7.75,10,82.17,0.08,1800
+Arabica,Indonesia,Bourbon,7.5,7.42,7.42,7.5,7.42,10,82.08,0.15,1300
+Arabica,Colombia,Caturra,7.75,7.42,7.67,7.83,7.58,10,82.08,0,NA
+Arabica,Brazil,Bourbon,7.42,7.42,7.5,7.42,7.25,10,82.08,0.11,894
+Arabica,Brazil,Yellow Bourbon,7.25,7.58,7.58,7.25,7.92,10,82.08,0,1
+Arabica,Costa Rica,Caturra,7.75,7.42,7.25,7.17,7.42,10,82.08,0,1300
+Arabica,"Tanzania, United Republic Of",Bourbon,7.42,7.42,7.42,7.5,7.58,10,82.08,0.12,1500
+Arabica,"Tanzania, United Republic Of",Other,7.42,7.5,7.33,7.33,7.5,10,82.08,0.12,1600
+Arabica,Colombia,,7.5,7.42,7.42,7.67,7.42,10,82.08,0.11,NA
+Arabica,Costa Rica,Caturra,7.58,7.33,7.33,7.5,7.67,10,82.08,0.11,13
+Arabica,United States (Hawaii),Hawaiian Kona,7.25,7.58,7.25,7.5,7.42,10,82.08,0.11,NA
+Arabica,Mexico,Typica,7.42,7.5,7.33,7.42,7.42,10,82.08,0.13,1300
+Arabica,Mexico,Typica,7.5,7.42,7.5,7.25,7.5,10,82.08,0.13,1800
+Arabica,Mexico,Typica,7.67,7.25,7.58,7.42,7.33,10,82.08,0.11,1250
+Arabica,Vietnam,Other,7.67,7.17,7.08,7.67,7.08,10,82.08,0.12,1040
+Arabica,Mexico,Typica,7.58,7.25,7.75,7.33,7.42,10,82.08,0.11,1250
+Arabica,United States (Hawaii),Hawaiian Kona,7.33,7.33,7.58,7.08,7.83,10,82.08,0.1,NA
+Arabica,Colombia,,7.67,7.67,7.33,7.25,7.58,10,82.08,0.08,1600
+Arabica,Honduras,Caturra,7.5,7.17,7.5,7.5,7.42,10,82,0.12,1600
+Arabica,Honduras,Caturra,7.5,7.25,7.33,7.42,7.5,10,82,0.1,1600
+Arabica,Brazil,Bourbon,7.5,7.42,7.5,7.33,7.42,10,82,0.11,944
+Arabica,"Tanzania, United Republic Of",Other,7.67,7.33,7.42,7.42,7.42,10,82,0.13,1650
+Arabica,Laos,Other,7.42,7.25,7.33,7.5,7.5,10,82,0.12,1250
+Arabica,"Tanzania, United Republic Of",Other,7.42,7.33,7.58,7.33,7.42,10,82,0.12,1350
+Arabica,Malawi,Gesha,7.5,7.33,7.58,7.33,7.5,10,82,0.13,2500
+Arabica,Taiwan,Typica,7.33,7.17,7.42,7.5,7.33,10,82,0.09,600
+Arabica,Thailand,,7.58,7.42,7.42,7.33,7.42,10,82,0.11,800
+Arabica,Costa Rica,Catuai,7.5,7.33,7.33,7.75,7.5,10,82,0.1,1300
+Arabica,Honduras,Caturra,7.33,7.33,7.5,7.5,7.83,10,82,0.11,1400
+Arabica,Colombia,Caturra,7.33,7.58,7.5,7.5,7.58,10,82,0.11,1900
+Arabica,Taiwan,Typica,7.42,7.33,7.42,8,7.5,10,82,0.12,650
+Arabica,Brazil,Mundo Novo,7.33,7.42,7.17,7.33,7.42,10,82,0.11,1038.5
+Arabica,Mexico,Typica,7.67,7.25,7.5,7.42,7.42,10,82,0.12,940
+Arabica,Brazil,Mundo Novo,7.42,7.33,7.5,7.33,7.5,10,82,0.12,1000
+Arabica,Brazil,Catuai,7.42,7.25,7.5,7.5,7.42,10,82,0.11,1050
+Arabica,Guatemala,Bourbon,7.33,7.33,7.5,7.67,7.67,10,82,0.11,NA
+Arabica,Brazil,Mundo Novo,7.58,7.17,7.5,7.5,7.42,10,82,0.12,950
+Arabica,Guatemala,Bourbon,7.75,7.33,7.42,7.75,7.67,9.33,82,0,1402.08
+Arabica,Colombia,Caturra,7.33,7.08,7.42,7.5,7.67,10,82,0.07,1775
+Arabica,Guatemala,Bourbon,7.58,7.25,7.58,7.58,7.5,10,81.92,0.1,1901
+Arabica,Guatemala,Bourbon,7.5,7.25,7.42,7.42,7.42,10,81.92,0.11,1219.2
+Arabica,Honduras,Caturra,7.58,7.25,7.33,7.42,7.5,10,81.92,0.12,1400
+Arabica,Brazil,Catuai,7.42,7.33,7.5,7.5,7.33,10,81.92,0.11,1020
+Arabica,El Salvador,Bourbon,7.67,7.33,7.5,7.5,7.67,9.33,81.92,0.11,1250
+Arabica,Guatemala,Catuai,7.58,7.17,7.83,7.17,7.33,10,81.92,0.11,1550
+Arabica,"Tanzania, United Republic Of",Other,7.33,7.33,7.42,7.5,7.58,10,81.92,0.12,1877
+Arabica,Nicaragua,,7.58,7.25,7.17,7.5,7.67,10,81.92,0.12,NA
+Arabica,Zambia,SL28,7.67,7.42,7.33,7.75,7.42,10,81.92,0,1250
+Arabica,Honduras,,7.42,7.33,7.58,7.33,7.5,10,81.92,0.11,NA
+Arabica,Taiwan,Typica,7.5,7.42,7.25,7.5,7.5,10,81.92,0.11,1000
+Arabica,Mexico,Bourbon,7.58,7.25,7.58,7.5,7.25,10,81.92,0.12,1300
+Arabica,Mexico,Typica,7.5,7.25,7.25,7.5,7.5,10,81.92,0.13,981
+Arabica,Mexico,Mundo Novo,7.5,7.25,7.5,7.33,7.33,10,81.92,0.14,690
+Arabica,Mexico,Other,7.33,7.17,7.58,7.42,7.33,10,81.92,0.12,1650
+Arabica,Mexico,Bourbon,7.67,7.33,7.83,7.5,7.5,10,81.92,0.12,1000
+Arabica,Brazil,Mundo Novo,7.42,7.25,7.5,7.33,7.5,10,81.92,0.12,1100
+Arabica,Colombia,,7.67,7.33,7.58,7.33,7.33,10,81.92,0.09,1600
+Arabica,Guatemala,Bourbon,7.42,7.25,7.5,7.33,7.42,10,81.83,0.1,157.8864
+Arabica,Costa Rica,Catuai,7.25,7.5,7.33,7.67,7.42,10,81.83,0,1900
+Arabica,Brazil,Mundo Novo,7.42,7.42,7.5,7.42,7.25,10,81.83,0.11,973
+Arabica,Indonesia,Other,7.75,7.58,7.75,7.92,7.83,10,81.83,0.11,1250
+Arabica,Guatemala,Bourbon,7.58,7.33,7.42,7.58,7.25,10,81.83,0.1,3280
+Arabica,Brazil,Yellow Bourbon,7.17,6.83,7.5,7.75,7.25,10,81.83,0,1
+Arabica,Brazil,Yellow Bourbon,7.58,6.92,6.92,7.67,7.5,10,81.83,0,1
+Arabica,Myanmar,Catuai,7.33,7.5,7.42,7.33,7.33,10,81.83,0,4001
+Arabica,Mexico,Catuai,7.58,7.33,7.5,7.17,7.33,10,81.83,0.11,1425
+Arabica,Honduras,Catuai,7.5,7.33,7.5,7.42,7.25,10,81.83,0.12,1400
+Arabica,Costa Rica,Caturra,7.67,7.5,7.25,7.08,7.42,10,81.83,0.09,1300
+Arabica,Taiwan,Typica,7.67,7.17,7.25,7.75,7.33,10,81.83,0,700
+Arabica,Indonesia,Typica,7.42,7.42,7.33,7.42,7.42,10,81.83,0.11,1300
+Arabica,Malawi,Gesha,7.58,7.33,7.33,7.33,7.42,10,81.83,0.13,1556
+Arabica,Brazil,Bourbon,7.33,7.25,7.17,7.83,7.33,10,81.83,0.11,1100
+Arabica,Honduras,Caturra,7.5,7.33,7.33,7.33,7.33,10,81.83,0.1,1350
+Arabica,Mexico,Typica,7.42,7.25,7.5,7.33,7.42,10,81.83,0.11,1550
+Arabica,Colombia,Caturra,7.5,7,7.42,7.5,7.58,10,81.83,0,1775
+Arabica,United States (Hawaii),Hawaiian Kona,7.83,7.83,8,7.83,7.83,10,81.83,0,NA
+Arabica,Brazil,Bourbon,7.75,7.5,7.42,7.83,7.75,9.33,81.83,0.12,1250
+Arabica,Guatemala,Bourbon,7.83,7.33,7.33,7.67,7.83,9.33,81.83,0.11,1310.64
+Arabica,Mexico,Bourbon,7.83,7.25,7.58,7.25,7.33,10,81.83,0.12,1500
+Arabica,Mexico,Typica,7.33,7.25,7.5,7.5,7.5,10,81.83,0.12,1250
+Arabica,Brazil,Mundo Novo,7.33,7.25,7.5,7.5,7.25,10,81.83,0.02,925
+Arabica,Colombia,,7.58,7.17,7.58,7.33,7.33,10,81.83,0.05,1700
+Arabica,United States (Hawaii),,7.25,7.83,7.67,7.75,7.75,10,81.83,0.02,NA
+Arabica,Guatemala,Bourbon,7.5,7.25,7.42,7.42,7.33,10,81.75,0.11,1700
+Arabica,Vietnam,Caturra,7,7.33,7.5,7.5,7.33,10,81.75,0.12,1040
+Arabica,"Tanzania, United Republic Of",Other,7.42,7.42,7.42,7.33,7.33,10,81.75,0.12,1600
+Arabica,Brazil,,7.17,7.17,7.25,7.42,8.25,10,81.75,0.1,NA
+Arabica,Mexico,Bourbon,7.5,7.33,7.42,7.25,7.25,10,81.75,0.13,774
+Arabica,Mexico,Mundo Novo,7.42,7.17,7.67,7.33,7.42,10,81.75,0.13,1250
+Arabica,Mexico,Typica,7.42,7.33,7.58,7.33,7.33,10,81.75,0.11,1100
+Arabica,Mexico,Caturra,7.33,7.33,7.67,7.42,7.25,10,81.75,0.12,1550
+Arabica,Mexico,Typica,7.5,7.25,7.33,7.67,7.25,10,81.75,0.12,1650
+Arabica,Colombia,Caturra,7.33,7.33,7.33,7.5,7.67,10,81.75,0,1750
+Arabica,Colombia,,7.42,6.92,7.08,7.25,8,10,81.75,0.08,1775
+Arabica,Brazil,Bourbon,7.42,7.25,7.5,7.5,7.25,10,81.67,0.11,890
+Arabica,Guatemala,Bourbon,7.42,7.08,7.42,7.33,7.42,10,81.67,0.1,1700
+Arabica,Guatemala,Bourbon,7.42,7.17,7.67,7.33,7.42,10,81.67,0.12,1219.2
+Arabica,Honduras,Catuai,7.58,7.33,7.33,7.42,7.25,10,81.67,0.11,1450
+Arabica,"Tanzania, United Republic Of",,7.17,7.33,7.42,7.5,7.33,10,81.67,0,1800
+Arabica,Nicaragua,,7.58,7.25,7.25,7.5,7.25,10,81.67,0.1,NA
+Arabica,Colombia,,7.75,7.75,7.67,5.25,7.83,10,81.67,0,NA
+Arabica,Brazil,Yellow Bourbon,7.25,6.92,7.42,7.5,7.58,10,81.67,0,1
+Arabica,"Tanzania, United Republic Of",Other,7.42,7.25,7.42,7.5,7.42,10,81.67,0.12,1500
+Arabica,"Tanzania, United Republic Of",Other,7.33,7.5,7.25,7.42,7.33,10,81.67,0.12,1700
+Arabica,Brazil,Bourbon,7.25,7.25,7.5,7.5,7.42,10,81.67,0.1,1260
+Arabica,Indonesia,Sumatra,7.17,7.33,7.42,7.33,7.42,10,81.67,0.11,NA
+Arabica,Honduras,Caturra,7.5,7.5,7.5,7.17,7.17,10,81.67,0.1,1400
+Arabica,Costa Rica,Caturra,7.5,7.17,7.17,7.5,7.08,10,81.67,0.11,1850
+Arabica,Mexico,,7.42,7.67,8,7.58,7.5,10,81.67,0,NA
+Arabica,Taiwan,Typica,7.5,7.5,7.25,7.42,7.25,10,81.67,0.11,150
+Arabica,Taiwan,Typica,7.58,7.33,7.42,7.33,7.33,10,81.67,0.11,750
+Arabica,Mexico,Typica,7.5,7.08,7.58,7.33,7.33,10,81.67,0.12,1400
+Arabica,Guatemala,Bourbon,7.5,7.33,7.33,7.33,7.33,10,81.67,0.11,1752.6
+Arabica,Mexico,Typica,7.25,7.58,7.67,7.67,7.58,10,81.67,0.13,1650
+Arabica,Mexico,Bourbon,7.67,7.17,7.75,7.5,7.25,10,81.67,0.11,1400
+Arabica,Mexico,Bourbon,7.5,7.33,7.42,7.42,7.42,10,81.67,0.11,1200
+Arabica,Mexico,Bourbon,7.58,7.25,7.58,7.25,7.17,10,81.67,0.11,1400
+Arabica,Mexico,Caturra,7.75,7.25,7.17,7.58,7.33,10,81.67,0.11,940
+Arabica,United States (Hawaii),Hawaiian Kona,7.42,7.33,7.33,7.17,7.83,10,81.67,0.1,NA
+Arabica,Honduras,Catimor,7.5,7.08,7.42,7.5,7.33,10,81.58,0.11,1200
+Arabica,Guatemala,Bourbon,7.42,7.08,7.5,7.42,7.33,10,81.58,0.12,190164
+Arabica,Taiwan,Typica,7.42,7.25,7.67,7.33,7.25,10,81.58,0.1,800
+Arabica,Costa Rica,Caturra,7.58,7.5,7.17,7.08,7.58,10,81.58,0.12,13
+Arabica,"Tanzania, United Republic Of",Other,7.42,7.33,7.42,7.42,7.33,10,81.58,0.12,1800
+Arabica,Malawi,Gesha,7.42,7.17,7.58,7.33,7.33,10,81.58,0.13,1100
+Arabica,Taiwan,Typica,7.33,7.08,7.08,8.33,8.25,9.33,81.58,0,850
+Arabica,Brazil,Yellow Bourbon,7.42,7.33,7.33,7.5,7.25,10,81.58,0.12,1260
+Arabica,Guatemala,Bourbon,7.42,7.17,7.58,7.42,7.5,10,81.58,0.12,1310.64
+Arabica,Mexico,Typica,7.67,7.42,7.5,6.75,7.42,10,81.58,0.12,1400
+Arabica,Mexico,Marigojipe,7.33,7.25,7.5,7.5,7.17,10,81.58,0.11,1600
+Arabica,Mexico,Typica,7.67,7.42,7.58,7.58,7.42,8.67,81.58,0.11,1650
+Arabica,Thailand,,7.08,7.58,7.58,7.17,7.5,10,81.58,0.01,1499.9208
+Arabica,Thailand,,7.33,7.17,7.5,7.58,7.33,10,81.58,0.2,NA
+Arabica,Costa Rica,,7.25,7.33,7.33,7.5,7.75,10,81.58,0,1600.2
+Arabica,Guatemala,Bourbon,7.67,7.17,7.42,7.33,7.42,10,81.5,0.1,1219.2
+Arabica,Nicaragua,Caturra,7.5,7.33,7.33,7.25,7.33,10,81.5,0.11,1100
+Arabica,Honduras,Caturra,7.5,7.33,7.42,7.17,7.25,10,81.5,0.1,1400
+Arabica,Guatemala,Bourbon,7.5,7.25,7.25,7.5,7.25,10,81.5,0.12,NA
+Arabica,Taiwan,Typica,7.5,7.33,7.08,7.58,7.25,10,81.5,0.12,180
+Arabica,Myanmar,Catuai,7.25,7.25,7.5,7.33,7.33,10,81.5,0,1219.2
+Arabica,Costa Rica,Caturra,7.83,7.08,7.08,7.33,7.5,10,81.5,0.12,1200
+Arabica,Malawi,Gesha,7.67,6.92,7.5,7.5,7.17,10,81.5,0.12,1599
+Arabica,Guatemala,Other,7.5,7.17,7.58,7.25,7.42,10,81.5,0.12,1219.2
+Arabica,Taiwan,Typica,7.42,7.67,7.33,7.42,7.5,9.33,81.5,0.11,900
+Arabica,Brazil,Yellow Bourbon,7.58,7.5,7.67,7.67,7.83,9.33,81.5,0,1200
+Arabica,Haiti,Blue Mountain,7.42,7.25,7.42,7.42,7.33,10,81.5,0.11,825
+Arabica,Taiwan,Typica,7.5,7.25,7.25,7.33,7.33,10,81.5,0.11,600
+Arabica,Mexico,Typica,7.33,7.17,7.42,7.5,7.5,10,81.5,0.13,1150
+Arabica,Mexico,Typica,7.58,7.25,7.42,7.33,7.33,10,81.5,0.12,1600
+Arabica,Mexico,Catuai,7.42,7.17,7.42,7.17,8,10,81.5,0.12,1100
+Arabica,Mexico,Typica,7.33,7.33,7.33,7.33,7.42,10,81.5,0.11,1000
+Arabica,Mexico,Bourbon,7.42,7.33,7.17,7.25,7.42,10,81.5,0.13,1250
+Arabica,Mexico,Typica,7.5,7.25,7.5,7.42,7.58,10,81.5,0.11,1100
+Arabica,Indonesia,Other,7.75,7.17,7.33,7.58,7.33,10,81.5,0.12,1400
+Arabica,Brazil,Bourbon,7.5,7.17,7.42,7.5,7.33,10,81.5,0.12,125
+Arabica,Guatemala,Bourbon,7.33,7.33,7.42,7.17,7.33,10,81.5,0.11,NA
+Arabica,Colombia,,7.42,7.17,7.42,7.42,7.33,10,81.5,0.06,1450
+Arabica,United States (Hawaii),,7.33,7.33,7.5,7.5,7.83,10,81.5,0,NA
+Arabica,Mexico,Mundo Novo,7.58,7.08,7.33,7.5,7.33,10,81.42,0.12,1100
+Arabica,Guatemala,Catuai,7.42,7.08,7.58,7.33,7.25,10,81.42,0.1,1371.6
+Arabica,Brazil,Catuai,7.33,7.5,7.33,6.83,7.42,10,81.42,0.11,1100
+Arabica,Honduras,Catuai,7.5,7.17,7.25,7.5,7.42,10,81.42,0.12,1400
+Arabica,Taiwan,Typica,7.83,7.42,7.17,7.08,7.08,10,81.42,0.12,110
+Arabica,Malawi,Gesha,7.58,7.33,7.42,7.08,7.42,10,81.42,0.12,1422
+Arabica,Brazil,Bourbon,7.25,7.42,7.17,7.33,7.33,10,81.42,0,1100
+Arabica,Guatemala,Bourbon,7.42,7.17,7.42,7.42,7.42,10,81.42,0.1,1550
+Arabica,Mexico,Typica,7.67,7.25,7.17,7.25,7.42,10,81.42,0,1550
+Arabica,Peru,,7.42,7.17,7.33,7.42,7.42,10,81.42,0.1,NA
+Arabica,Guatemala,Bourbon,7.42,7.25,7.42,7.42,7.5,10,81.42,0.12,1310.64
+Arabica,Mexico,Caturra,7.42,7.25,7.17,7.25,7.42,10,81.42,0.13,763
+Arabica,Mexico,Typica,7.42,7.25,7.25,7.5,7.33,10,81.42,0.13,1100
+Arabica,Colombia,Caturra,7.5,7.25,7.17,7.17,7.75,10,81.42,0.11,1750
+Arabica,Colombia,,7.75,7.42,7,7.33,7.25,10,81.42,0.16,1880
+Arabica,United States (Hawaii),Peaberry,7.83,7,7.58,7.58,7.5,10,81.42,0.01,NA
+Arabica,Colombia,Caturra,7.5,7.33,7.17,7.33,7.42,10,81.33,0,NA
+Arabica,Honduras,Caturra,7.5,7,7.17,7.5,7.33,10,81.33,0.11,1500
+Arabica,Mexico,,7.67,7,7.42,7.58,7.08,10,81.33,0.12,1130
+Arabica,Brazil,Catuai,7.25,7.33,7.33,7.33,7.42,10,81.33,0.11,1100
+Arabica,Honduras,Catuai,7.58,7.17,7.42,7.17,7.17,10,81.33,0.09,1350
+Arabica,Brazil,Yellow Bourbon,7.17,7.42,7.25,7.42,7.33,10,81.33,0.12,1200
+Arabica,Philippines,Other,7.08,7.42,7.33,7.33,7.5,10,81.33,0.14,1400
+Arabica,Malawi,Gesha,7.75,7.08,7.33,7.33,7.25,10,81.33,0.13,1200
+Arabica,Honduras,Catuai,7.33,7.17,7.33,7.5,7.33,10,81.33,0.12,1450
+Arabica,Mexico,Typica,7.58,7.25,7.33,7.25,7.25,10,81.33,0.13,1800
+Arabica,Mexico,Typica,7.33,7.17,7.42,7.58,7.33,10,81.33,0.12,1000
+Arabica,Brazil,Catuai,7.5,7.5,7.5,7.75,7.83,9.33,81.33,0.11,1100
+Arabica,Taiwan,Typica,7.83,7.67,7.83,7.83,7.75,10,81.25,0.12,680
+Arabica,Brazil,Yellow Bourbon,7.17,7.17,7.08,6.92,8.17,10,81.25,0,1
+Arabica,Nicaragua,Catuai,7.08,7.33,7.17,7.42,7.25,10,81.25,0.1,1100
+Arabica,Honduras,Catuai,7.42,7.17,7.5,7.33,7.25,10,81.25,0.12,1400
+Arabica,Guatemala,Pacamara,7.33,7.17,7.25,7.42,7.33,10,81.25,0.09,1700
+Arabica,"Tanzania, United Republic Of",Other,7.33,7.17,7.5,7.25,7.42,10,81.25,0.13,1700
+Arabica,Taiwan,Typica,7.5,7.25,7.25,7.25,7.25,10,81.25,0.11,650
+Arabica,Guatemala,Caturra,7.5,7.5,7.58,7,7.25,10,81.25,0.11,1524
+Arabica,Mexico,Typica,7.42,7.33,7.33,7.5,7.42,10,81.25,0.12,1500
+Arabica,Nicaragua,,7.33,7.17,7.17,7.58,7.17,10,81.17,0.09,1200
+Arabica,"Tanzania, United Republic Of",Bourbon,7.67,7.17,7.33,7.5,7.17,10,81.17,0.12,1050
+Arabica,Mexico,Caturra,7.75,7.08,7.25,7.08,7.25,10,81.17,0.12,1200
+Arabica,Costa Rica,Caturra,7.5,7.33,7.17,7.08,7.17,10,81.17,0.11,1300
+Arabica,Honduras,Catuai,7.42,7,7.42,7.33,7.33,10,81.17,0.13,1450
+Arabica,Thailand,Caturra,6.83,7.42,7.17,7.5,7.42,10,81.17,0.12,1450
+Arabica,Philippines,Typica,7.25,7.25,7.08,7.58,7.5,10,81.17,0,1200
+Arabica,"Tanzania, United Republic Of",Bourbon,7.58,7.17,7.33,7.33,7.25,10,81.17,0.12,1550
+Arabica,Malawi,Caturra,7.58,7.33,7.08,7.33,7.33,10,81.17,0.12,995
+Arabica,Costa Rica,Catuai,7.33,7.33,7.25,7.33,7.58,10,81.17,0.11,1300
+Arabica,Brazil,Catuai,7.42,7.17,7.42,7.33,7.25,10,81.17,0.11,NA
+Arabica,Mexico,Typica,7.42,7.08,7.75,7.42,7.17,10,81.17,0.13,1800
+Arabica,Guatemala,Caturra,7.42,7.33,7.25,7.25,7.42,10,81.17,0.12,1450
+Arabica,Brazil,Mundo Novo,7.42,7.25,7.42,7.5,7.17,10,81.17,0.12,1000
+Arabica,United States (Hawaii),,7.25,7.67,7.67,7.42,7.67,10,81.17,0.04,NA
+Arabica,Ethiopia,,7.42,7.17,7.33,7.42,7.17,10,81.08,0.11,NA
+Arabica,Brazil,Mundo Novo,7.58,7.5,7.25,7.75,7.58,9.33,81.08,0.11,695
+Arabica,Nicaragua,Other,7.33,7.33,7.42,7.33,7.33,10,81.08,0.11,1100
+Arabica,United States,Pache Comun,7.42,7.33,7.42,7.25,7.33,10,81.08,0,1706.88
+Arabica,"Tanzania, United Republic Of",Other,7.42,7.33,7.25,7.25,7.33,10,81.08,0.13,1456
+Arabica,Costa Rica,Caturra,7.42,7.17,7.25,7.25,7.58,10,81.08,0.13,1500
+Arabica,United States (Puerto Rico),Other,7.67,7.67,7.58,7.58,7.67,10,81.08,0,853.44
+Arabica,Mexico,Typica,7.25,7.33,7.33,7.17,7.33,10,81.08,0.13,1650
+Arabica,Mexico,Typica,7.33,7.33,7.42,7.25,7.42,10,81.08,0.12,1300
+Arabica,Mexico,Typica,7.33,7.25,7.42,7.25,7.25,10,81.08,0.11,1642
+Arabica,Mexico,Typica,7.42,7.25,7.42,7.17,7.25,10,81.08,0.1,1200
+Arabica,United States (Hawaii),Hawaiian Kona,7.42,7.25,7.58,6.92,7.17,10,81.08,0.06,NA
+Arabica,Brazil,Bourbon,7.25,7.17,7.5,7.33,7.17,10,81,0.11,NA
+Arabica,El Salvador,Bourbon,7.42,7.08,7.33,7.25,7.58,10,81,0,1450
+Arabica,Brazil,Yellow Bourbon,7.33,7.17,7.67,7.33,7.17,10,81,0.11,NA
+Arabica,Guatemala,Bourbon,7.42,7.17,7.5,7.25,7.17,10,81,0.09,3280
+Arabica,Colombia,Caturra,7.67,7.42,5.25,7.67,7.75,10,81,0,1600
+Arabica,Guatemala,Bourbon,7.5,7,7.25,7.5,7.25,10,81,0.11,1219.2
+Arabica,Taiwan,Typica,7.25,7.17,7.25,7.5,7.33,10,81,0.12,758
+Arabica,Honduras,Caturra,7.42,7.25,7.33,7.25,7.17,10,81,0.12,1350
+Arabica,Brazil,Mundo Novo,7.67,7.83,7.75,7.83,7.75,10,81,0.12,NA
+Arabica,"Tanzania, United Republic Of",Other,7.33,7.08,7.42,7.17,7.33,10,81,0.12,1525
+Arabica,Uganda,SL14,7.33,7.17,7.33,7.42,7.42,10,81,0.12,1700
+Arabica,Taiwan,Typica,7.5,7.33,7.33,7.33,7.33,10,81,0.11,1100
+Arabica,Thailand,,7.33,7.25,7.42,7.25,7.17,10,81,0,800
+Arabica,Mexico,Other,7.08,7.33,7.33,7.42,7.25,10,81,0.12,950
+Arabica,Mexico,Typica,7.58,7.5,7.67,7.58,7.5,10,81,0,1100
+Arabica,Taiwan,Other,7.33,7.25,7.33,7.33,7.25,10,80.92,0,200
+Arabica,Guatemala,Bourbon,7.67,7.33,7.58,7.67,7.5,9.33,80.92,0.1,1901
+Arabica,Kenya,SL28,7.17,7.5,7.5,8,7.75,10,80.92,0.11,1600
+Arabica,Mexico,Bourbon,7.5,7.17,7.42,7.5,7.33,10,80.92,0.11,1100
+Arabica,Myanmar,Other,7.17,7,7.58,7.33,7,10,80.92,0,1066.8
+Arabica,United States (Hawaii),Hawaiian Kona,7.42,7.17,7.17,7.58,7.25,10,80.92,0.1,NA
+Arabica,"Tanzania, United Republic Of",Other,7.33,7.17,7.25,7.42,7.33,10,80.92,0.12,1700
+Arabica,Brazil,Yellow Bourbon,7.25,7.25,7.25,7.25,7.33,10,80.92,0.12,1200
+Arabica,Taiwan,Typica,7.92,7.33,7.08,7.08,7.08,10,80.92,0.09,550
+Arabica,Brazil,Bourbon,7.17,7.17,7.25,7.25,7.33,10,80.92,0.1,1100
+Arabica,Nicaragua,Caturra,7.33,7.25,7,7.5,7.42,10,80.92,0.1,1050
+Arabica,Guatemala,Pacas,7.58,6.92,7.5,7.25,7.17,10,80.92,0.12,1524
+Arabica,Taiwan,Typica,7.42,7.25,7.25,7.25,7.25,10,80.92,0.11,900
+Arabica,Taiwan,Typica,7.25,7.08,7.08,7.08,8.08,10,80.92,0.11,688
+Arabica,Taiwan,Typica,7.42,7.25,7.25,7.25,7.25,10,80.92,0.11,300
+Arabica,Mexico,Typica,7.58,7.08,7.5,7.17,7.25,10,80.92,0.13,1186
+Arabica,Thailand,Peaberry,7.67,7.33,7.33,7.17,7,10,80.92,0,NA
+Arabica,Laos,Catimor,7.42,7.17,7.17,7.17,7.25,10,80.83,0,1300
+Arabica,Guatemala,Caturra,7.67,7.08,7.33,7.17,7.25,10,80.83,0.11,1200
+Arabica,Mexico,Catuai,7.17,7.25,7.42,7.25,7.33,10,80.83,0.13,1210
+Arabica,Mexico,Typica,7.33,7.33,7.33,7.25,7.17,10,80.83,0.11,1100
+Arabica,Mexico,Bourbon,7.5,7.33,7.25,7.17,7.17,10,80.83,0.13,100
+Arabica,United States (Hawaii),Hawaiian Kona,7.42,7,7.25,7.33,7.5,10,80.83,0.1,NA
+Arabica,Colombia,,7.33,7,6.83,7.33,7.67,10,80.83,0.01,1800
+Arabica,Brazil,,7.17,7.08,7.17,7.25,7.58,10,80.75,0,NA
+Arabica,Myanmar,Catuai,6.92,7,7.58,7.5,7.08,10,80.75,0,3825
+Arabica,Guatemala,Caturra,7.5,7,7.42,7.17,7.17,10,80.75,0.12,1706.88
+Arabica,Nicaragua,Other,7.25,7.17,7.25,7.33,7.25,10,80.75,0.12,110000
+Arabica,Honduras,Caturra,7.5,7,7.42,7.25,7.17,10,80.75,0.11,1450
+Arabica,Panama,Caturra,7.25,7.17,7.33,7.33,7.17,10,80.75,0.11,1680
+Arabica,Honduras,Catuai,7.42,7.08,7.42,7.25,7.25,10,80.75,0.09,1350
+Arabica,Honduras,Catuai,7.25,7.08,7.5,7.25,7.33,10,80.75,0.13,1450
+Arabica,Costa Rica,Caturra,7.33,7.25,7.25,7.17,7.17,10,80.75,0.11,1300
+Arabica,Mexico,Typica,7.58,7.42,7.25,7.5,7.5,10,80.75,0.11,1200
+Arabica,Haiti,Typica,7.42,7.42,7.25,7.08,7.33,10,80.75,0.12,1000
+Arabica,United States (Hawaii),Arusha,7.08,7.17,7.25,7.33,7.67,10,80.75,0.13,NA
+Arabica,Taiwan,Typica,7.33,7.08,7.08,7.42,7.33,10,80.67,0,NA
+Arabica,Indonesia,Mandheling,7.58,7,7.67,7.5,7.5,10,80.67,0.13,1350
+Arabica,Guatemala,Bourbon,7.67,6.83,7.17,7.42,7.17,10,80.67,0.11,1500
+Arabica,Costa Rica,Caturra,7.83,7.67,7.67,7.83,7.5,10,80.67,0.11,185
+Arabica,Malawi,Caturra,7.5,7.17,7.17,7.25,7.17,10,80.67,0.12,995
+Arabica,Mexico,Typica,7.25,7.17,7.25,7.17,7.42,10,80.67,0.12,1200
+Arabica,Colombia,Caturra,7.67,7.42,7.67,7.5,7.75,6.67,80.67,0,1550
+Arabica,Guatemala,Bourbon,7.67,7,7.5,7,7,10,80.67,0.12,1550
+Arabica,Guatemala,Bourbon,7,7.5,7.33,7,7.33,10,80.67,0.11,NA
+Arabica,Guatemala,Bourbon,7,7.33,7.17,7.17,7.17,10,80.67,0.11,NA
+Arabica,Colombia,,7.17,7.08,7.42,7.08,7.42,10,80.67,0.18,NA
+Arabica,Brazil,,7.33,7.33,7.08,7.58,7.25,10,80.58,0.11,NA
+Arabica,Nicaragua,,7.08,7,7.25,7.42,7,10,80.58,0.11,NA
+Arabica,"Tanzania, United Republic Of",Other,7.25,7.08,7.33,7.33,7.25,10,80.58,0.12,1400
+Arabica,Brazil,Bourbon,7.42,7.33,7,7.08,7.25,10,80.58,0,1200
+Arabica,Honduras,Caturra,7.5,7,7.42,7.33,7,10,80.58,0.11,1400
+Arabica,Guatemala,Bourbon,7.17,6.83,7.5,7.17,7.25,10,80.58,0.11,1383.792
+Arabica,United States (Hawaii),,7.42,7.5,7.92,7.83,7.83,9.33,80.58,0,NA
+Arabica,Colombia,,7.08,7,7.5,7.08,7.33,10,80.58,0,NA
+Arabica,Taiwan,Other,7.17,7.17,7.42,7.17,7.25,10,80.5,0,50
+Arabica,Guatemala,Caturra,7.33,7.08,7.17,7.25,7.17,10,80.5,0.1,1500
+Arabica,Honduras,Catuai,7.58,7,7.17,7.33,7.08,10,80.5,0.11,1650
+Arabica,Mauritius,,7.25,7.17,7.17,7.25,7.17,10,80.5,0.12,280
+Arabica,Brazil,Yellow Bourbon,7.25,7.17,7.5,7.33,7.25,10,80.5,0.11,1250
+Arabica,Myanmar,Other,7.17,7.17,7.42,7.25,7.08,10,80.5,0,3800
+Arabica,Guatemala,Other,7.5,6.83,7.5,7.17,7.17,10,80.5,0.11,1219.2
+Arabica,Brazil,Yellow Bourbon,7.42,7.08,7.33,7.67,7.5,10,80.5,0.1,1250
+Arabica,United States (Hawaii),Hawaiian Kona,7.42,7.33,7.58,7.58,7.42,10,80.5,0.11,NA
+Arabica,Guatemala,Bourbon,7.5,7,7.67,7.17,7,10,80.5,0.12,1859.28
+Arabica,Mexico,Typica,7.25,7.08,7.33,7.25,7.17,10,80.5,0.15,1450
+Arabica,Honduras,,7.25,7,7.42,7.33,7,10,80.42,0.1,1450
+Arabica,Taiwan,Typica,7.58,7.17,7.17,7.17,7.17,10,80.42,0.14,600
+Arabica,El Salvador,Bourbon,7.33,7.08,7.08,7.33,7.17,10,80.42,0,1450
+Arabica,China,Other,7.25,7.25,7.17,7.33,7.17,10,80.42,0.17,1700
+Arabica,Taiwan,Typica,7.25,7.17,7.25,7.25,7.25,10,80.42,0.11,600
+Arabica,Mexico,Typica,6.92,7.08,7.5,7.33,7.17,10,80.42,0.1,1050
+Arabica,Mexico,Caturra,7.42,7.08,7.33,7.25,7.17,10,80.42,0.12,1550
+Arabica,Burundi,,7.08,7.17,7.33,7.08,7.08,10,80.33,0.12,1700
+Arabica,"Tanzania, United Republic Of",Bourbon,7.25,7,7.25,7.42,7.08,10,80.33,0.13,1700
+Arabica,"Tanzania, United Republic Of",Other,7.25,7.25,7.25,7.25,7.08,10,80.33,0.12,NA
+Arabica,Taiwan,Yellow Bourbon,7.25,7.08,7.25,7.25,7.25,10,80.33,0.11,600
+Arabica,Guatemala,Bourbon,7.33,6.83,7.5,7,7.17,10,80.33,0.11,1310.64
+Arabica,Mexico,Typica,7.25,7.08,7.33,7.33,7.17,10,80.33,0.11,940
+Arabica,United States (Hawaii),Hawaiian Kona,7.17,6.92,7.33,7.67,7.33,10,80.33,0.12,NA
+Arabica,Ethiopia,,7.25,7.25,7.33,7.5,8,10,80.33,0.1,NA
+Arabica,Brazil,Catuai,7.17,7.42,7.08,7,7,10,80.25,0.11,995
+Arabica,Honduras,Caturra,7.25,7,7,7.42,7,10,80.25,0.1,1400
+Arabica,Mexico,Caturra,7.25,7,7.33,7.33,7,10,80.25,0.1,1600
+Arabica,Myanmar,Other,8,7,7.33,7.08,6.92,10,80.25,0.11,914.4
+Arabica,Myanmar,Catuai,7.42,7.08,7,7.17,7.33,10,80.25,0,4287
+Arabica,Nicaragua,Caturra,7.08,7,7.25,7.5,7.25,10,80.25,0.11,900
+Arabica,United States (Hawaii),Hawaiian Kona,7.5,7.67,7.67,7.42,7.58,9.33,80.25,0.12,NA
+Arabica,Colombia,Typica,7.42,7.83,7.75,8.08,7.58,8.67,80.25,0.1,NA
+Arabica,Taiwan,Typica,7.25,7.25,7.25,7.17,7.25,10,80.25,0.11,700
+Arabica,Guatemala,Caturra,7,7.33,7.33,7,7.17,10,80.25,0.11,1400
+Arabica,Mexico,Caturra,7.58,7.17,7.25,6.75,7,10,80.25,0.11,808
+Arabica,Vietnam,Catimor,7.42,7.25,7.58,7.42,7.33,10,80.17,0,1550
+Arabica,Nicaragua,Caturra,7.17,7.08,7.33,7.25,7.08,10,80.17,0.11,1187.5
+Arabica,Honduras,Catuai,7.25,7,7.17,7.08,7.08,10,80.17,0.11,1400
+Arabica,Guatemala,Bourbon,7.33,7,7.17,7.17,7.17,10,80.17,0.11,1310.64
+Arabica,Mexico,Typica,7.33,6.92,7.42,7.25,7.08,10,80.17,0.11,1250
+Arabica,Mexico,Typica,7.58,7.33,7.5,7.08,7.17,10,80.17,0.14,1550
+Arabica,Mexico,Bourbon,7.33,7.17,7.08,7.25,7,10,80.17,0.12,1000
+Arabica,Guatemala,Bourbon,7.33,7,7.33,7,7,10,80.17,0.11,1310.64
+Arabica,United States (Hawaii),,7.58,7.33,7.33,7.67,7.33,9.33,80.17,0.05,NA
+Arabica,Brazil,Bourbon,7.17,7,7.17,7.25,7.25,10,80.08,0.11,1100
+Arabica,Taiwan,Typica,7.42,7.25,7.17,7,7,10,80.08,0.07,850
+Arabica,Nicaragua,,7.25,6.92,7.25,7.17,7.25,10,80.08,0.1,NA
+Arabica,Taiwan,Typica,7.25,7.25,7.25,7.08,7,10,80.08,0.11,200
+Arabica,Taiwan,Typica,7.25,7.25,7,7.25,7.08,10,80.08,0.11,150
+Arabica,Taiwan,Typica,7.25,7.25,7.08,7.17,7.08,10,80.08,0.11,250
+Arabica,Mexico,Typica,7.33,7.25,7.08,7.08,7.08,10,80.08,0.15,1300
+Arabica,Mexico,Typica,7.25,7,7.17,7.33,7.17,10,80.08,0.14,1300
+Arabica,Nicaragua,Caturra,7.33,6.92,7.08,7.42,7.17,10,80,0.1,1250
+Arabica,Myanmar,Other,7.17,7,7.42,7.17,7,10,80,0,3845
+Arabica,Mexico,Typica,7.58,7.42,7.5,7.5,7.5,10,80,0,1400
+Arabica,Taiwan,Typica,7.25,7.25,7,7.25,7,10,80,0.11,250
+Arabica,Thailand,,7.33,7.08,7.42,7.42,7.08,10,80,0,800
+Arabica,Mexico,Typica,7.25,7.08,7.17,7.33,7.33,10,80,0.12,1250
+Arabica,Mexico,Other,7.08,7,7.33,7.08,7,10,80,0.11,1100
+Arabica,Ethiopia,,7.42,7.5,7.92,7.75,7.58,8.67,80,0.05,NA
+Arabica,Colombia,,7.83,7.58,7.75,7.83,7.17,10,79.92,0,NA
+Arabica,United States (Hawaii),Hawaiian Kona,7.5,7,6.92,7.33,7.17,10,79.92,0.11,NA
+Arabica,Mexico,Bourbon,7.33,7.08,7.33,7.42,7.17,10,79.92,0.12,1300
+Arabica,Mexico,Other,7.17,6.92,7.25,7.33,7.08,10,79.92,0.12,1100
+Arabica,Mexico,Bourbon,7.5,7,7.17,7.25,7.08,10,79.92,0,1100
+Arabica,Mexico,Catuai,7.17,7.08,7.08,7.5,7.33,10,79.92,0.11,1100
+Arabica,Mexico,Typica,7.33,7,7.42,7.17,7.17,10,79.92,0.12,1250
+Arabica,Mexico,Mundo Novo,7.17,7.08,7.58,7.33,7.08,10,79.92,0.11,1250
+Arabica,United States (Hawaii),,7.5,7.58,7.42,7.5,7.58,10,79.92,0.05,NA
+Arabica,Kenya,SL34,7,7,7.17,7.25,7.25,10,79.83,0.11,1500
+Arabica,Guatemala,Bourbon,7.33,6.92,7.33,7.25,7.33,10,79.83,0.1,1700
+Arabica,Nicaragua,Caturra,6.83,7.17,6.92,7.5,7.08,10,79.83,0.11,1250
+Arabica,Mexico,Typica,7.17,7,7.25,7.5,7,10,79.83,0.12,1300
+Arabica,United States (Hawaii),Hawaiian Kona,7.58,6.83,7.17,7.5,7.17,10,79.83,0.12,NA
+Arabica,Guatemala,Bourbon,7.5,7.25,7.58,7.33,7.42,9.33,79.75,0.1,190164
+Arabica,Taiwan,Typica,7.75,7.17,7.33,7.67,7.83,8.67,79.75,0,1000
+Arabica,Taiwan,Typica,7.08,7.25,7,7.17,7.17,10,79.75,0.1,600
+Arabica,Thailand,,7.25,6.92,7.5,7.08,6.92,10,79.75,0.12,800
+Arabica,Peru,,7,7,7.25,7.5,7.42,10,79.75,0.12,NA
+Arabica,Costa Rica,Catuai,7.58,7.67,7.75,7.67,7.58,10,79.75,0.1,1100
+Arabica,Mexico,Typica,7.58,7,7,7.5,6.92,10,79.75,0.12,1400
+Arabica,Mexico,Bourbon,7.58,6.92,7.58,7.5,6.92,10,79.75,0.13,1022
+Arabica,Mexico,Bourbon,7.25,7,7.17,7.17,7.08,10,79.75,0.12,1300
+Arabica,Mexico,Bourbon,7.25,7.17,7.08,7.17,7,10,79.75,0.14,1450
+Arabica,Mexico,Typica,7.33,7,7.08,7.08,7,10,79.75,0.1,1050
+Arabica,Guatemala,Bourbon,7.58,7.5,7.33,7,7.33,9.33,79.75,0,NA
+Arabica,Mexico,Typica,7.25,6.92,7.08,7.25,7.08,10,79.75,0.12,1100
+Arabica,Guatemala,Bourbon,7.42,7.25,7.58,7.42,7.33,9.33,79.67,0.1,1219.2
+Arabica,El Salvador,Bourbon,7.25,7,6.83,7.33,7.17,10,79.67,0,1250
+Arabica,Thailand,,6.92,6.83,7.42,7.17,7.08,10,79.67,0.12,800
+Arabica,Guatemala,Bourbon,7.5,6.83,7.08,7.08,7.17,10,79.67,0.11,1310.64
+Arabica,Mexico,Typica,7.42,6.83,7.58,7.17,6.58,10,79.67,0.12,1400
+Arabica,Mexico,Caturra,7.33,7,6.75,7.08,7,10,79.67,0.13,975
+Arabica,Mexico,Mundo Novo,6.92,7.17,7.17,7.08,7.08,10,79.67,0,1264
+Arabica,Thailand,Peaberry,7.17,7,7,7.25,6.92,10,79.67,0,NA
+Arabica,Mexico,Typica,7.08,6.92,7.33,7.25,7.08,10,79.58,0.12,1250
+Arabica,Mexico,Caturra,7.25,6.92,7.33,7.25,7,10,79.58,0.13,1550
+Arabica,Colombia,,7.25,7,6.75,7.17,7.33,10,79.58,0.1,1800
+Arabica,Guatemala,,7.08,6.83,7.33,7.25,7,10,79.58,0.17,1325.88
+Arabica,Nicaragua,Caturra,6.92,7,7.42,7.25,7,10,79.5,0.12,1050
+Arabica,Taiwan,Typica,6.92,7.17,7,7.42,7,10,79.5,0,700
+Arabica,Colombia,Caturra,7.83,7.42,7.42,7.67,7.5,10,79.5,0,1550
+Arabica,Mexico,Caturra,7.25,6.92,7.25,7.58,7.08,10,79.5,0.12,1550
+Arabica,Mexico,Typica,7.25,7,7.25,7.17,7.17,10,79.5,0.12,1100
+Arabica,Guatemala,Bourbon,7.08,7.25,7.58,7.33,7.42,9.33,79.42,0.1,1219.2
+Arabica,Guatemala,Other,7.25,6.83,7,7,7.17,10,79.42,0.1,1219.2
+Arabica,Mexico,Typica,7,6.83,7.42,7.33,7.17,10,79.42,0.13,800
+Arabica,Cote d?Ivoire,,7.42,6.83,7,7.33,7.08,10,79.33,0.13,200
+Arabica,Colombia,Caturra,7.42,6.75,7.25,7.42,7.25,10,79.33,0,1200
+Arabica,Mexico,Typica,7,6.83,7.33,7.42,6.92,10,79.33,0.14,950
+Arabica,Mexico,Typica,7.42,7.08,7.17,7.08,7.08,10,79.33,0.14,750
+Arabica,Guatemala,Bourbon,7.17,6.33,7.25,7.58,7.33,10,79.33,0.11,NA
+Arabica,Taiwan,Typica,7.08,6.83,7.25,7.42,7.08,10,79.25,0.11,850
+Arabica,Mexico,Bourbon,7,6.92,7.17,7.17,7.08,10,79.25,0.13,1000
+Arabica,Guatemala,Bourbon,7.33,7.33,7.42,7.5,7.42,9.33,79.17,0.1,1219.2
+Arabica,Honduras,Catuai,7.58,6.75,6.92,7,6.92,10,79.17,0.11,1650
+Arabica,Guatemala,Bourbon,7.08,6.92,7.42,7,6.92,10,79.17,0.11,1320
+Arabica,Guatemala,Catuai,7.25,6.75,7.25,7,6.92,10,79.17,0.11,1550
+Arabica,Costa Rica,Catuai,7.17,7.5,8,7.25,7.83,6.67,79.17,0.1,NA
+Arabica,Mexico,Typica,7.25,6.92,7.08,7.17,7.17,10,79.17,0.14,1550
+Arabica,Mexico,Typica,7.17,6.92,7.08,7.17,7,10,79.17,0.14,1450
+Arabica,Mexico,Typica,6.75,6.83,7.25,7.58,7.08,10,79.17,0.01,1200
+Arabica,Guatemala,Bourbon,7.58,7.42,7.42,7.67,7.67,8.67,79.08,0.1,1700
+Arabica,United States (Puerto Rico),Other,7.42,6.75,7.33,7.33,6.92,10,79.08,0.13,853.44
+Arabica,Mexico,Typica,7.33,6.92,7.25,7.33,7.08,10,79.08,0.16,1500
+Arabica,Mexico,Mundo Novo,7.25,6.75,7.33,7.42,7,10,79.08,0.11,1100
+Arabica,Mexico,Typica,7.17,7.25,7.17,7.25,7.08,10,79.08,0.1,1200
+Arabica,,,6.75,6.42,6.83,7.58,7.5,10,79.08,0.1,NA
+Arabica,Guatemala,Other,7.33,6.58,7.42,7.08,6.83,10,79,0.12,1219.2
+Arabica,Honduras,Pacas,7,7,7,7,7,10,79,0.11,1350
+Arabica,Peru,Typica,7.67,7.08,7.25,8,7.5,9.33,79,0,1400
+Arabica,Mexico,Mundo Novo,6.75,6.67,7.25,7.17,7.08,10,79,0.12,1300
+Arabica,Mexico,Typica,7.5,6.92,7.5,7.25,7,10,79,0.14,1550
+Arabica,Mexico,Typica,7.17,6.83,7.25,7.17,6.92,10,79,0.14,12
+Arabica,Mexico,Typica,7.33,6.75,7.08,7.17,7.25,10,78.92,0.12,1300
+Arabica,Mexico,Typica,7.5,6.92,7.08,6.92,6.75,10,78.92,0.16,1400
+Arabica,Nicaragua,Caturra,7.17,6.92,7,7,7,10,78.83,0.1,1100
+Arabica,United States (Hawaii),,7.5,6.92,7.25,7.58,7.42,9.33,78.75,0.12,NA
+Arabica,Guatemala,Bourbon,7.33,6.33,7.25,7,7,10,78.75,0.12,1310.64
+Arabica,Mexico,Typica,7.25,6.83,7,7.17,7,10,78.75,0.14,1320
+Arabica,Mexico,Typica,7.25,7.17,7.25,7.08,7,10,78.75,0.14,1250
+Arabica,Mexico,Bourbon,7.67,6.83,7.33,7.58,7.17,8.67,78.75,0.12,1350
+Arabica,China,Typica,7,6.83,7.17,7.17,7.17,9.33,78.67,0,1850
+Arabica,Mexico,Caturra,6.92,6.67,7.25,7.17,6.92,10,78.67,0.13,1150
+Arabica,Nicaragua,,7.08,6.75,6.83,7.08,6.92,10,78.58,0.1,NA
+Arabica,Nicaragua,,6.83,6.92,6.75,7.25,7.08,10,78.58,0.11,NA
+Arabica,Guatemala,Other,7.33,6.92,7.58,7.25,7.17,10,78.58,0.12,1219.2
+Arabica,Taiwan,Typica,6.83,7.17,7.25,7,6.92,10,78.58,0.1,800
+Arabica,Mexico,Typica,7,6.75,7.33,6.92,6.92,10,78.58,0.13,1400
+Arabica,Mexico,Typica,7.92,7.58,7.92,7.92,7.5,10,78.58,0.1,1300
+Arabica,United States (Hawaii),,7.92,7.08,7.42,6.75,7.33,10,78.58,0,NA
+Arabica,Mexico,Bourbon,7.25,6.92,6.92,7.25,7.58,10,78.5,0,1600
+Arabica,Mexico,Typica,7.08,6.83,7,7,6.92,10,78.5,0.12,1400
+Arabica,Mexico,Caturra,7.25,7,6.83,7.58,7.08,10,78.5,0.13,1200
+Arabica,Brazil,Catuai,6.83,6.92,7.08,6.92,6.83,10,78.42,0.12,NA
+Arabica,Mexico,Typica,7.58,7,7.17,7.33,7,10,78.42,0.14,1500
+Arabica,United States (Hawaii),Hawaiian Kona,7.5,7.58,7.83,7.92,7.92,8.67,78.33,0.1,NA
+Arabica,Guatemala,Other,7.17,6.67,7,7.17,7.17,10,78.33,0.1,1219.2
+Arabica,Guatemala,Bourbon,7.17,6.5,7.17,7,6.83,10,78.33,0.11,1310.64
+Arabica,Mexico,Typica,7.25,7,7.5,7.33,7.42,10,78.33,0.13,1300
+Arabica,Guatemala,Bourbon,7.17,6.17,7.25,7.33,7.33,10,78.33,0.11,NA
+Arabica,United States (Hawaii),Hawaiian Kona,7.5,7.33,7.58,7.5,7.42,8.67,78.25,0.11,NA
+Arabica,United States (Hawaii),Hawaiian Kona,7.42,7.33,7.5,7.67,7.75,9.33,78.25,0.11,NA
+Arabica,Indonesia,Java,6.92,6.92,6.92,6.92,6.83,10,78.17,0.13,1300
+Arabica,Mexico,Typica,7.08,6.67,7.25,7.25,6.92,10,78.08,0.11,1050
+Arabica,Taiwan,Yellow Bourbon,7.5,7.33,7.17,7.5,7.5,10,78,0,650
+Arabica,Honduras,Pacas,6.83,6.67,7,7,6.83,10,78,0.11,1350
+Arabica,United States (Hawaii),Hawaiian Kona,7.58,7.5,7.42,7.5,7.33,9.33,78,0.12,NA
+Arabica,Guatemala,Other,7.42,6.83,7.33,7,6.92,9.33,78,0.1,1219.2
+Arabica,China,Typica,7.33,6.92,7.08,7.33,7,9.33,78,0.1,1200
+Arabica,Guatemala,Bourbon,7,6.83,7.17,6.67,6.83,10,78,0.11,1310.64
+Arabica,Mexico,Other,7.25,7,7,7.25,7.08,8,78,0.12,850
+Arabica,Colombia,,7.42,7,7.17,7.67,7.17,9.33,78,0.1,NA
+Arabica,Costa Rica,Caturra,7.5,7.42,7,7.08,6.83,10,77.92,0.12,1200
+Arabica,Mexico,Typica,7.42,7,7,7.25,7.08,10,77.92,0.11,1248
+Arabica,Guatemala,Bourbon,7.17,6.17,7.08,7.33,6.83,10,77.92,0.11,NA
+Arabica,Nicaragua,,7.42,7,7.17,7.08,7,10,77.83,0.1,1000
+Arabica,Brazil,,7,6.67,6.83,7.08,6.83,10,77.83,0.11,NA
+Arabica,Guatemala,Bourbon,7,6.67,7.17,6.83,6.83,10,77.83,0.11,1310.64
+Arabica,Taiwan,Typica,7.17,6.58,7.33,7.33,7.17,10,77.67,0.11,775
+Arabica,United States (Hawaii),,7.58,7.58,7.67,7.42,7.42,6,77.58,0.12,NA
+Arabica,Mexico,Typica,7.17,6.58,6.75,6.83,6.75,10,77.5,0.13,1300
+Arabica,Guatemala,Bourbon,7.08,6.33,7,6.92,7,10,77.42,0.11,1310.64
+Arabica,Brazil,Bourbon,7.5,7.42,7.58,7.58,6.92,10,77.33,0,890
+Arabica,Guatemala,Other,7.33,6.83,7.17,7.17,7.17,9.33,77.33,0.1,1219.2
+Arabica,Mexico,Typica,7.33,6.67,7,6.92,6.92,10,77.33,0.15,1500
+Arabica,Haiti,Typica,6.83,6.83,6.75,6.92,6.92,10,77.25,0.1,825
+Arabica,United States (Hawaii),,7.08,6.83,6.67,7.58,7.42,10,77.25,0.12,NA
+Arabica,Mexico,Other,7.08,7,7.25,7.33,7.25,10,77.17,0.12,1200
+Arabica,Peru,Caturra,7.42,7.42,7.67,7.92,7.83,9.33,77,0,1200
+Arabica,India,,7.67,7.17,6.67,7.17,7.42,6.67,76.83,0,NA
+Arabica,Mexico,Typica,6.67,6.42,6.83,7,6.92,10,76.75,0,1200
+Arabica,Guatemala,Bourbon,6.42,6.5,7.33,6.33,6.92,10,76.5,0.12,NA
+Arabica,Mexico,Typica,7.17,6.58,7,7.25,6.58,10,76.42,0.13,1100
+Arabica,Guatemala,Bourbon,7.5,6.83,7.5,7.17,7.33,8.67,76.33,0.11,1310.64
+Arabica,Guatemala,Bourbon,6.17,6.5,7.17,7,6.83,10,76.33,0.11,NA
+Arabica,United States (Hawaii),Hawaiian Kona,7.25,6.83,7.17,7.33,6.83,9.33,76.25,0,NA
+Arabica,United States (Hawaii),,7.5,7.33,7.58,7.67,7.25,8,76.17,0,NA
+Arabica,Mexico,Typica,7.42,6.83,7.08,6.92,6.83,10,76.17,0.16,1400
+Arabica,Indonesia,Other,7.33,6.5,6.08,7.58,6.33,9.33,76.17,0.12,3500
+Arabica,Mexico,Bourbon,7.08,6.83,7.17,7.17,7.08,10,76.08,0.12,1250
+Arabica,Honduras,Pacas,6.83,6.67,6.83,7,6.83,10,76,0.11,1350
+Arabica,Philippines,,6.83,6.5,6.92,6.75,7,9.33,75.83,0.12,1000
+Arabica,Brazil,,7.17,6.83,7.5,7.17,7,10,75.67,0.11,NA
+Arabica,Guatemala,Bourbon,7.92,7.17,7.58,7.33,7.17,8,75.58,0.11,1310.64
+Arabica,Guatemala,Bourbon,6.67,6.33,7,7.17,6.75,10,75.58,0.12,NA
+Arabica,Mexico,Pacamara,7.5,6.92,7,7.17,6.83,10,75.5,0.11,1100
+Arabica,Mexico,Mundo Novo,7.17,6.67,6.83,7.25,7.75,10,75.17,0.11,1200
+Arabica,Mexico,Other,7.25,6.67,7.08,7.17,6.83,10,75.17,0.12,1100
+Arabica,Mexico,Typica,7.17,6.83,7.17,7.42,6.67,10,75.17,0.13,1280
+Arabica,Mexico,Typica,7,6.75,6.92,7.17,6.83,10,75,0.14,850
+Arabica,Mexico,Typica,7.08,6.58,7,7,6.75,10,74.92,0.17,1500
+Arabica,Mexico,Typica,7.33,6.67,7.25,7.5,7,10,74.83,0.12,1250
+Arabica,Guatemala,Bourbon,6.75,6.17,7,7.25,6.75,10,74.75,0.11,NA
+Arabica,Guatemala,Bourbon,6.75,6.17,7.17,7,6.58,10,74.75,0.11,NA
+Arabica,Mexico,Typica,7.08,6.83,7.5,7.33,6.83,10,74.67,0.12,1700
+Arabica,United States (Hawaii),Hawaiian Kona,7.5,7,7.25,7.42,7.33,6.67,74.42,0,NA
+Arabica,Guatemala,Bourbon,6.5,6.5,7.5,7.33,6.83,8.67,74.33,0.11,1310.64
+Arabica,Mexico,Typica,7,6.67,6.83,7.08,6.83,10,74.33,0.14,1140
+Arabica,Mexico,Typica,6.92,6.17,7.33,7.25,6.75,10,74,0.13,1200
+Arabica,Mexico,Typica,7.67,7.17,7.58,7.33,7.33,10,73.83,0.12,1250
+Arabica,United States (Hawaii),Hawaiian Kona,7.17,7.17,7.58,7.67,6.92,6.67,73.67,0,NA
+Arabica,Brazil,,7.25,6.58,7,7,6.42,10,73.5,0.11,NA
+Arabica,Honduras,Pacas,7,6.83,7.17,7,7.17,8,73.42,0.11,1350
+Arabica,Mexico,Typica,7.08,6.92,7.08,6.92,6.92,8,72.92,0,1200
+Arabica,Colombia,,8,7.75,7.33,7.42,7.67,6.67,72.83,0,NA
+Arabica,United States (Hawaii),Hawaiian Kona,6.92,6.92,7.5,7.58,7.17,9.33,72.58,0.11,NA
+Arabica,Haiti,,6.92,7.08,7.17,7.33,6.67,8.67,72.33,0.08,1020
+Arabica,Costa Rica,Caturra,6.33,6.33,6.83,6.33,6.5,10,71.75,0.11,1200
+Arabica,Mexico,Mundo Novo,6.92,6.92,6.92,7.17,7,10,71.08,0.12,800
+Arabica,Mexico,Bourbon,6.5,6.42,7.17,7.33,6.5,10,71,0.11,1800
+Arabica,Mexico,Typica,6.92,6.83,6.92,7.42,6.92,10,70.75,0.12,1000
+Arabica,Brazil,,7,6.83,7,7.33,6.83,10,70.67,0.11,NA
+Arabica,Honduras,Catuai,6.67,6.17,6.67,6.83,6.17,8,69.33,0.1,1450
+Arabica,Honduras,Catuai,7,6.17,6.67,6.5,6.17,8,69.17,0.1,1450
+Arabica,Honduras,Catuai,7,6.17,6.5,6.67,6.17,8,69.17,0.1,1450
+Arabica,Mexico,Bourbon,7.08,6.25,7.42,7.25,6.75,10,68.33,0.11,900
+Arabica,Haiti,Typica,6.75,6.42,6.67,7.08,6.67,6,67.92,0.14,350
+Arabica,Nicaragua,Caturra,7.25,6.33,6.25,6.42,6.08,6,63.08,0.13,1100
+Arabica,Guatemala,Catuai,7.5,6.67,7.67,7.33,6.67,1.33,59.83,0.1,1417.32
+Arabica,Honduras,Caturra,0,0,0,0,0,0,0,0.12,1400
+Robusta,Uganda,,7.83,7.75,7.92,8,8.25,7.92,83.75,0.12,1488
+Robusta,India,,8,7.92,8,8,7.92,7.92,83.5,0,3170
+Robusta,India,,7.92,7.92,8,7.83,7.83,7.92,83.25,0,1000
+Robusta,Uganda,,8,7.92,7.75,7.75,7.83,7.75,83,0.12,1212
+Robusta,Uganda,,8.33,7.83,7.75,7.58,8.25,7.75,83,0.12,1250
+Robusta,India,,8,7.67,8,7.75,7.75,7.92,82.75,0,3000
+Robusta,India,,7.67,7.83,7.83,8,7.92,7.75,82.58,0,750
+Robusta,India,,7.67,7.83,7.67,7.92,7.92,7.83,82.5,0.1,3140
+Robusta,India,Other,7.67,7.58,7.83,7.92,7.83,8,82.5,0.09,1000
+Robusta,Uganda,,7.67,7.83,7.83,7.75,7.92,7.75,82.42,0.12,1100
+Robusta,Uganda,,7.58,7.75,7.83,7.67,7.5,7.67,81.75,0.12,1095
+Robusta,India,Other,7.67,7.75,7.5,7.75,7.75,7.58,81.58,0.11,1000
+Robusta,India,,7.58,7.67,7.58,7.5,7.67,7.67,81.58,0,750
+Robusta,Uganda,,8,7.75,7.58,7.58,7.67,7.5,81.5,0.11,1367
+Robusta,Uganda,,8,7.75,7.5,7.58,7.67,7.58,81.5,0.12,1488
+Robusta,India,,7.75,7.67,7.67,7.58,7.58,7.58,81.42,0,1000
+Robusta,India,,7.5,7.25,7.83,7.83,7.67,7.83,81.25,0.13,750
+Robusta,Uganda,,7.33,7.5,7.75,7.75,7.75,7.67,80.92,0.12,1600
+Robusta,Uganda,,7.83,7.33,7.67,7.75,7.5,7.5,80.58,0.12,1745
+Robusta,Uganda,,7.75,7.33,7.58,7.67,7.67,7.58,80.5,0.12,1200
+Robusta,India,,7.67,7.5,7.33,7.42,7.58,7.5,80.17,0,750
+Robusta,India,,7.58,7.42,7.83,7.42,7.42,7.5,80.17,0,750
+Robusta,United States,Arusha,7.92,7.42,7.42,7.58,7.42,7.42,79.33,0,3000
+Robusta,Ecuador,,7.75,7.33,7.58,7.75,5.08,7.83,78.75,0,NA
+Robusta,Ecuador,,7.5,7.75,7.75,8.42,5.17,5.25,78.08,0,40
+Robusta,United States,,7.33,7.17,7.42,7.42,7.5,7.17,77.17,0,795
+Robusta,India,,7.42,6.75,7.17,7.08,7.25,7,75.08,0.1,NA
+Robusta,Vietnam,,6.75,6.5,6.83,6.67,6.92,6.83,73.75,0.12,NA
